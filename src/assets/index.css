@@ -21,5 +21,7 @@ body, html {
 }
 
 body {
-    background-color: var(--background-color-primary);
+    background-image: url('./images/background.jpeg');
+    background-size: cover;
+    max-width: 100vw;
 }
