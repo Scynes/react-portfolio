@@ -23,5 +23,13 @@ body, html {
 body {
     background-image: url('./images/background.jpeg');
     background-size: cover;
-    max-width: 100vw;
+}
+
+/* ----------------- *
+ *    APPLICATION    *
+ * ----------------- */
+#root {
+    height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
