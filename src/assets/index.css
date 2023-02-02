@@ -3,17 +3,23 @@
 :root {
     /* background colors */
     --background-color-primary: rgb(22, 18, 24);
-    --background-color-secondary: rgb(172, 7, 243);
+    --background-color-primary-light: rgba(47, 32, 54, 0.7);
+    --background-color-secondary: rgb(137, 7, 243);
+    --background-color-secondary-light: rgb(137, 7, 243, 0.7);
     /* fonts */
     --font-family-primary: 'Montserrat Alternates', sans-serif;
     --font-color-primary: rgb(255, 255, 255);
+    --font-color-secondary: rgb(152, 134, 255);
 }
 
 * {
     margin: 0;
     box-sizing: border-box;
     font-family: var(--font-family-primary);
-    color: var(--font-color-primary);
+}
+
+a {
+    text-decoration: none;
 }
 
 body, html {
@@ -23,13 +29,75 @@ body, html {
 body {
     background-image: url('./images/background.jpeg');
     background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+/* ------------- *
+ *    UTILITY    *
+ * ------------- */
+.fc-primary {
+    color: var(--font-color-primary);
+}
+
+/* ---------- *
+ *    FLEX    *
+ * ---------- */
+.flex {
+    display: flex;
+}
+
+.flex.column {
+    flex-direction: column;
+}
+
+.flex.justify-end {
+    justify-content: flex-end;
+}
+
+.flex.align-center {
+    align-items: center;
 }
 
 /* ----------------- *
  *    APPLICATION    *
  * ----------------- */
+a:is(.nav-item) {
+    min-height: 5rem;
+    min-width: 7rem;
+    line-height: 5rem;
+    text-align: center;
+    transition: 0.25s ease;
+}
+
+a:not(.active):is(.nav-item):hover {
+    color: var(--font-color-secondary);
+}
+
+a:is(.active) {
+    transform: scale(1.1);
+    border-radius: 1rem;
+    background-color: var(--background-color-secondary);
+}
+
 #root {
-    height: 100%;
+    min-height: 100vh;
     display: grid;
-    grid-template-rows: auto 1fr auto;
+    grid-template-rows: auto 1fr;
+}
+
+#navigation-bar, footer {
+    margin: 0.5rem;
+    border-radius: 1rem;
+    background-color: var(--background-color-primary-light);
+}
+
+#navigation-bar > h1 {
+    margin-right: auto;
+    padding-left: 2rem;
 }
