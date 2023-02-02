@@ -91,6 +91,16 @@ footer {
     animation: footer-alert 10s infinite;
 }
 
+footer > a {
+    min-width: 5rem;
+    transition: all 0.2s ease-in-out;
+}
+
+footer > a:hover {
+    transform: scale(1.2);
+    color: rgb(0, 208, 255);
+}
+
 a:is(.nav-item) {
     min-height: 5rem;
     min-width: 7rem;
@@ -150,6 +160,10 @@ a:is(.active) {
 .fa-bars {
     font-size: 2rem;
     color: var(--font-color-primary);
+}
+
+:is(footer > a):not(:hover) {
+    color: white;
 }
 
 @media screen and (max-width: 480px) {
