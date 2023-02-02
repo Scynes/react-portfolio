@@ -60,6 +60,10 @@ h1 {
     justify-content: flex-end;
 }
 
+.flex.justify-center {
+    justify-content: center;
+}
+
 .flex.align-center {
     align-items: center;
 }
@@ -67,6 +71,13 @@ h1 {
 /* ----------------- *
  *    APPLICATION    *
  * ----------------- */
+footer {
+    gap: 2.5rem;
+    min-height: 4rem;
+    background-color: var(--background-color-primary);
+    animation: footer-alert 20s infinite;
+}
+
 a:is(.nav-item) {
     min-height: 5rem;
     min-width: 7rem;
@@ -91,13 +102,29 @@ a:is(.active) {
     grid-template-rows: auto 1fr;
 }
 
-#navigation-bar, footer {
+#navigation-bar {
     margin: 0.5rem;
     border-radius: 1rem;
     background-color: var(--background-color-primary-light);
 }
 
-#navigation-bar > h1 {
+#navigation-bar > img {
+    height: 4rem;
     margin-right: auto;
     padding-left: 2rem;
+}
+
+@keyframes footer-alert {
+
+    0% {
+        background-color: var(--background-color-primary-light);
+    }
+
+    50% {
+        background-color: var(--background-color-secondary);
+    }
+
+    100% {
+        background-color: var(--background-color-primary-light);
+    }
 }
