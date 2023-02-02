@@ -28,8 +28,6 @@ body, html {
 
 body {
     background-image: url('./images/background.jpeg');
-    background-size: cover;
-    background-position: center;
     background-repeat: no-repeat;
     overflow: hidden;
 }
@@ -146,15 +144,19 @@ a:is(.active) {
     border-radius: 0.25rem;
     min-height: 3rem;
     min-width: 3rem;
-    background-color: rgb(255, 255, 255);
+    background-color: var(--background-color-secondary);
 }
 
 .fa-bars {
     font-size: 2rem;
-    color: var(--background-color-secondary);
+    color: var(--font-color-primary);
 }
 
 @media screen and (max-width: 480px) {
+
+    body {
+        background-position: center;
+    }
 
     a:is(.active) {
         transform: scale(1);

@@ -20,7 +20,7 @@ const NavigationBar = () => {
                     <i className={'fa-solid fa-bars'}></i>
                 </button>
             </div>
-            <div id={'nav-items'} className={'flex'}>
+            <div id={'nav-items'} className={'flex justify-end'}>
                 <NavLink className={'nav-item fc-primary'} to={''}>
                     <h3>Home</h3>
                 </NavLink>
