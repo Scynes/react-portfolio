@@ -65,11 +65,21 @@ h1 {
     justify-content: flex-end;
 }
 
-.flex.justify-center {
+/* ---------- *
+ *    GRID    *
+ * ---------- */
+.grid {
+    display: grid;
+}
+
+/* ---------------------- *
+ *    FLEX/GRID SHARED    *
+ * ---------------------- */
+.justify-center:is(.flex, .grid) {
     justify-content: center;
 }
 
-.flex.align-center {
+.align-center:is(.flex, .grid) {
     align-items: center;
 }
 
@@ -89,6 +99,7 @@ a:is(.nav-item) {
     line-height: 5rem;
     text-align: center;
     transition: 0.25s ease;
+    border-radius: 2px;
 }
 
 a:not(.active):is(.nav-item):hover {
@@ -110,6 +121,7 @@ a:is(.active) {
 
 #navigation-bar {
     margin: 0.5rem;
+    grid-template-columns: 1fr 1fr;
     gap: 2rem;
     border-radius: 1rem;
     background-color: var(--background-color-primary-light);
@@ -121,21 +133,30 @@ a:is(.active) {
     padding-left: 4rem;
 }
 
+#nav-items {
+    gap: 0.5rem;
+}
+
 .fa-bars {
-    font-size: 3rem;
+    font-size: 2rem;
     color: var(--background-color-secondary);
 }
 
 .hamburger {
+    margin-right: 2rem;
     display: none;
-    background-color: rgba(255, 255, 255, 0);
     border: none;
+    border-radius: 0.25rem;
+    min-height: 3rem;
+    min-width: 3rem;
+    background-color: rgb(255, 255, 255);
 }
 
 @media screen and (max-width: 480px) {
 
     #nav-items {
-        display: none;
+        grid-column: span 2;
+        flex-direction: column;
     }
 
     .hamburger {

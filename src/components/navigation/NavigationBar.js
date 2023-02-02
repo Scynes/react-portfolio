@@ -4,7 +4,7 @@ import logo from '../../assets/images/logo.svg'
 
 const NavigationBar = () => {
     return(
-        <nav id={'navigation-bar'} className={'flex align-center'}>
+        <nav id={'navigation-bar'} className={'grid align-center'}>
             <img src={logo} alt="" />
             <button className={'hamburger pointer'}>
                 <i class="fa-solid fa-bars"></i>
