@@ -3,12 +3,21 @@ import { NavLink } from "react-router-dom";
 import logo from '../../assets/images/logo.svg'
 
 const NavigationBar = () => {
+
+    const handleHamburgerClick = () => {
+        const HAMBURGER = document.getElementById('hamburger');
+        const NAV_ITEMS = document.getElementById('nav-items')
+
+        HAMBURGER.classList.toggle('active')
+        NAV_ITEMS.classList.toggle('active')
+    } 
+
     return(
         <nav id={'navigation-bar'} className={'grid align-center'}>
             <img src={logo} alt="" />
             <div id={'hamburger-container'} className="flex align-center justify-center">
-                <button className={'hamburger pointer'}>
-                    <i class="fa-solid fa-bars"></i>
+                <button id={'hamburger'} className={'pointer'} onClick={() => handleHamburgerClick()}>
+                    <i className={'fa-solid fa-bars'}></i>
                 </button>
             </div>
             <div id={'nav-items'} className={'flex'}>
