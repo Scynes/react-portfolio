@@ -1,6 +1,9 @@
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import NavigationBar from "./components/navigation";
+import Footer from "./components/footer";
+
 import Landing from "./pages/Landing"
 
 const App = () => {
@@ -14,6 +17,7 @@ const App = () => {
                 <Route path="/resume" element={ <Landing /> }/>
                 <Route path="/contact" element={ <Landing /> }/>
             </Routes>
+            <Footer />
         </BrowserRouter>
     );
 }
