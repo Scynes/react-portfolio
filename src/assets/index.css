@@ -137,14 +137,16 @@ a:is(.active) {
     gap: 0.5rem;
 }
 
+#hamburger-container {
+    display: none;
+}
+
 .fa-bars {
     font-size: 2rem;
     color: var(--background-color-secondary);
 }
 
 .hamburger {
-    margin-right: 2rem;
-    display: none;
     border: none;
     border-radius: 0.25rem;
     min-height: 3rem;
@@ -154,18 +156,24 @@ a:is(.active) {
 
 @media screen and (max-width: 480px) {
 
-    #nav-items {
-        grid-column: span 2;
-        flex-direction: column;
-    }
-
-    .hamburger {
-        display: block;
+    #navigation-bar {
+        row-gap: 1rem;
     }
 
     #navigation-bar > img {
         width: 12rem;
         padding-left: 2rem;
+    }
+
+    #nav-items {
+        display: none;
+        grid-column: span 2;
+        flex-direction: column;
+        transition: all 0.5s ease;
+    }
+
+    #hamburger-container {
+        display: flex;
     }
 }
 

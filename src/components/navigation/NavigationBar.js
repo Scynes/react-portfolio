@@ -6,9 +6,11 @@ const NavigationBar = () => {
     return(
         <nav id={'navigation-bar'} className={'grid align-center'}>
             <img src={logo} alt="" />
-            <button className={'hamburger pointer'}>
-                <i class="fa-solid fa-bars"></i>
-            </button>
+            <div id={'hamburger-container'} className="flex align-center justify-center">
+                <button className={'hamburger pointer'}>
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+            </div>
             <div id={'nav-items'} className={'flex'}>
                 <NavLink className={'nav-item fc-primary'} to={''}>
                     <h3>Home</h3>
