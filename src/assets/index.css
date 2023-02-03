@@ -32,6 +32,7 @@ body {
     background-image: url('./images/background.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
 }
 
 h1 {
@@ -124,7 +125,7 @@ a:is(.active) {
 }
 
 #root {
-    height: 100%;
+    min-height: 100%;
     display: grid;
     grid-template-rows: auto 1fr auto;
 }
@@ -159,10 +160,9 @@ a:is(.active) {
 }
 
 #landing-page-wrapper {
-    margin: auto;
+    height: 100%;
     width: 100%;
-    max-width: 25rem;
-    grid-template-rows: 50% 50%;
+    grid-template-columns: 1fr 1fr;
 }
 
 #page-container {
@@ -184,6 +184,7 @@ a:is(.active) {
 
 .typer {
     min-height: 3rem;
+    max-width: 25rem;
     padding: 1rem;
     border-radius: 1rem;
     font-size: 1.5rem;
@@ -229,7 +230,15 @@ a:is(.active) {
     }
 
     #portfolio-picture {
-        width: 10rem;
+        width: 15rem;
+    }
+
+    #landing-page-wrapper {
+        display: block;
+    }
+
+    .about-container {
+        justify-content: center;
     }
 }
 
