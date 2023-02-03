@@ -172,13 +172,13 @@ a:is(.active) {
 }
 
 .about-container {
-    min-height: 20rem;
-}
-
-.hello {
     padding: 1rem;
     border-radius: 1rem;
-    background-color: var(--background-color-primary);
+    background-color: var(--background-color-primary-light);
+}
+
+.typer {
+    max-width: 20rem;
 }
 
 @media screen and (max-width: 480px) {

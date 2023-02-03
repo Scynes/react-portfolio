@@ -1,0 +1,2751 @@
+.typer::after {
+    content: '';
+    animation: typed 79.92s linear 1s infinite;
+}
+
+@keyframes typed {
+    /* string 1, char 1 */
+    0%, 0.136760022% {
+      content: "H";
+    }
+    /* string 1, char 2 */
+    0.137760022%, 0.2745200441% {
+      content: "He";
+    }
+    /* string 1, char 3 */
+    0.2755200441%, 0.4122800661% {
+      content: "Hel";
+    }
+    /* string 1, char 4 */
+    0.4132800661%, 0.5500400882% {
+      content: "Hell";
+    }
+    /* string 1, char 5 */
+    0.5510400882%, 0.6878001102% {
+      content: "Hello";
+    }
+    /* string 1, char 6 */
+    0.6888001102%, 4.9996888001% {
+      content: "Hello!";
+    }
+    /* string 1, char 7 */
+    5.0006888001%, 5.0410168067% {
+      content: "Hello";
+    }
+    /* string 1, char 8 */
+    5.0420168067%, 5.0823448133% {
+      content: "Hell";
+    }
+    /* string 1, char 9 */
+    5.0833448133%, 5.1236728199% {
+      content: "Hel";
+    }
+    /* string 1, char 10 */
+    5.1246728199%, 5.1650008266% {
+      content: "He";
+    }
+    /* string 1, char 11 */
+    5.1660008266%, 5.2063288332% {
+      content: "H";
+    }
+    /* string 1, char 12 */
+    5.2073288332%, 6.5839290536% {
+      content: "​";
+    }
+    /* string 2, char 1 */
+    6.5849290536%, 6.7216890756% {
+      content: "M";
+    }
+    /* string 2, char 2 */
+    6.7226890756%, 6.8594490977% {
+      content: "My";
+    }
+    /* string 2, char 3 */
+    6.8604490977%, 6.9972091197% {
+      content: "My ";
+    }
+    /* string 2, char 4 */
+    6.9982091197%, 7.1349691418% {
+      content: "My n";
+    }
+    /* string 2, char 5 */
+    7.1359691418%, 7.2727291638% {
+      content: "My na";
+    }
+    /* string 2, char 6 */
+    7.2737291638%, 7.4104891858% {
+      content: "My nam";
+    }
+    /* string 2, char 7 */
+    7.4114891858%, 7.5482492079% {
+      content: "My name";
+    }
+    /* string 2, char 8 */
+    7.5492492079%, 7.6860092299% {
+      content: "My name ";
+    }
+    /* string 2, char 9 */
+    7.6870092299%, 7.823769252% {
+      content: "My name i";
+    }
+    /* string 2, char 10 */
+    7.824769252%, 7.961529274% {
+      content: "My name is";
+    }
+    /* string 2, char 11 */
+    7.962529274%, 8.099289296% {
+      content: "My name is ";
+    }
+    /* string 2, char 12 */
+    8.100289296%, 8.2370493181% {
+      content: "My name is D";
+    }
+    /* string 2, char 13 */
+    8.2380493181%, 8.3748093401% {
+      content: "My name is Du";
+    }
+    /* string 2, char 14 */
+    8.3758093401%, 8.5125693622% {
+      content: "My name is Dus";
+    }
+    /* string 2, char 15 */
+    8.5135693622%, 8.6503293842% {
+      content: "My name is Dust";
+    }
+    /* string 2, char 16 */
+    8.6513293842%, 8.7880894063% {
+      content: "My name is Dusti";
+    }
+    /* string 2, char 17 */
+    8.7890894063%, 8.9258494283% {
+      content: "My name is Dustin";
+    }
+    /* string 2, char 18 */
+    8.9268494283%, 13.2377381182% {
+      content: "My name is Dustin.";
+    }
+    /* string 2, char 19 */
+    13.2387381182%, 13.2790661248% {
+      content: "My name is Dustin";
+    }
+    /* string 2, char 20 */
+    13.2800661248%, 13.3203941314% {
+      content: "My name is Dusti";
+    }
+    /* string 2, char 21 */
+    13.3213941314%, 13.361722138% {
+      content: "My name is Dust";
+    }
+    /* string 2, char 22 */
+    13.362722138%, 13.4030501446% {
+      content: "My name is Dus";
+    }
+    /* string 2, char 23 */
+    13.4040501446%, 13.4443781513% {
+      content: "My name is Du";
+    }
+    /* string 2, char 24 */
+    13.4453781513%, 13.4857061579% {
+      content: "My name is D";
+    }
+    /* string 2, char 25 */
+    13.4867061579%, 13.5270341645% {
+      content: "My name is ";
+    }
+    /* string 2, char 26 */
+    13.5280341645%, 13.5683621711% {
+      content: "My name is";
+    }
+    /* string 2, char 27 */
+    13.5693621711%, 13.6096901777% {
+      content: "My name i";
+    }
+    /* string 2, char 28 */
+    13.6106901777%, 13.6510181843% {
+      content: "My name ";
+    }
+    /* string 2, char 29 */
+    13.6520181843%, 13.6923461909% {
+      content: "My name";
+    }
+    /* string 2, char 30 */
+    13.6933461909%, 13.7336741975% {
+      content: "My nam";
+    }
+    /* string 2, char 31 */
+    13.7346741975%, 13.7750022042% {
+      content: "My na";
+    }
+    /* string 2, char 32 */
+    13.7760022042%, 13.8163302108% {
+      content: "My n";
+    }
+    /* string 2, char 33 */
+    13.8173302108%, 13.8576582174% {
+      content: "My ";
+    }
+    /* string 2, char 34 */
+    13.8586582174%, 13.898986224% {
+      content: "My";
+    }
+    /* string 2, char 35 */
+    13.899986224%, 13.9403142306% {
+      content: "M";
+    }
+    /* string 2, char 36 */
+    13.9413142306%, 15.317914451% {
+      content: "​";
+    }
+    /* string 3, char 1 */
+    15.318914451%, 15.4556744731% {
+      content: "I";
+    }
+    /* string 3, char 2 */
+    15.4566744731%, 15.5934344951% {
+      content: "I ";
+    }
+    /* string 3, char 3 */
+    15.5944344951%, 15.7311945172% {
+      content: "I s";
+    }
+    /* string 3, char 4 */
+    15.7321945172%, 15.8689545392% {
+      content: "I sp";
+    }
+    /* string 3, char 5 */
+    15.8699545392%, 16.0067145612% {
+      content: "I spe";
+    }
+    /* string 3, char 6 */
+    16.0077145612%, 16.1444745833% {
+      content: "I spec";
+    }
+    /* string 3, char 7 */
+    16.1454745833%, 16.2822346053% {
+      content: "I speci";
+    }
+    /* string 3, char 8 */
+    16.2832346053%, 16.4199946274% {
+      content: "I specia";
+    }
+    /* string 3, char 9 */
+    16.4209946274%, 16.5577546494% {
+      content: "I special";
+    }
+    /* string 3, char 10 */
+    16.5587546494%, 16.6955146714% {
+      content: "I speciali";
+    }
+    /* string 3, char 11 */
+    16.6965146714%, 16.8332746935% {
+      content: "I specializ";
+    }
+    /* string 3, char 12 */
+    16.8342746935%, 16.9710347155% {
+      content: "I specialize";
+    }
+    /* string 3, char 13 */
+    16.9720347155%, 17.1087947376% {
+      content: "I specialize ";
+    }
+    /* string 3, char 14 */
+    17.1097947376%, 17.2465547596% {
+      content: "I specialize i";
+    }
+    /* string 3, char 15 */
+    17.2475547596%, 17.3843147817% {
+      content: "I specialize in";
+    }
+    /* string 3, char 16 */
+    17.3853147817%, 17.5220748037% {
+      content: "I specialize in ";
+    }
+    /* string 3, char 17 */
+    17.5230748037%, 17.6598348257% {
+      content: "I specialize in d";
+    }
+    /* string 3, char 18 */
+    17.6608348257%, 17.7975948478% {
+      content: "I specialize in de";
+    }
+    /* string 3, char 19 */
+    17.7985948478%, 17.9353548698% {
+      content: "I specialize in dev";
+    }
+    /* string 3, char 20 */
+    17.9363548698%, 18.0731148919% {
+      content: "I specialize in deve";
+    }
+    /* string 3, char 21 */
+    18.0741148919%, 18.2108749139% {
+      content: "I specialize in devel";
+    }
+    /* string 3, char 22 */
+    18.2118749139%, 18.3486349359% {
+      content: "I specialize in develo";
+    }
+    /* string 3, char 23 */
+    18.3496349359%, 18.486394958% {
+      content: "I specialize in develop";
+    }
+    /* string 3, char 24 */
+    18.487394958%, 18.62415498% {
+      content: "I specialize in developi";
+    }
+    /* string 3, char 25 */
+    18.62515498%, 18.7619150021% {
+      content: "I specialize in developin";
+    }
+    /* string 3, char 26 */
+    18.7629150021%, 18.8996750241% {
+      content: "I specialize in developing";
+    }
+    /* string 3, char 27 */
+    18.9006750241%, 19.0374350461% {
+      content: "I specialize in developing ";
+    }
+    /* string 3, char 28 */
+    19.0384350461%, 19.1751950682% {
+      content: "I specialize in developing a";
+    }
+    /* string 3, char 29 */
+    19.1761950682%, 19.3129550902% {
+      content: "I specialize in developing an";
+    }
+    /* string 3, char 30 */
+    19.3139550902%, 19.4507151123% {
+      content: "I specialize in developing and";
+    }
+    /* string 3, char 31 */
+    19.4517151123%, 19.5884751343% {
+      content: "I specialize in developing and ";
+    }
+    /* string 3, char 32 */
+    19.5894751343%, 19.7262351564% {
+      content: "I specialize in developing and d";
+    }
+    /* string 3, char 33 */
+    19.7272351564%, 19.8639951784% {
+      content: "I specialize in developing and de";
+    }
+    /* string 3, char 34 */
+    19.8649951784%, 20.0017552004% {
+      content: "I specialize in developing and des";
+    }
+    /* string 3, char 35 */
+    20.0027552004%, 20.1395152225% {
+      content: "I specialize in developing and desi";
+    }
+    /* string 3, char 36 */
+    20.1405152225%, 20.2772752445% {
+      content: "I specialize in developing and desig";
+    }
+    /* string 3, char 37 */
+    20.2782752445%, 20.4150352666% {
+      content: "I specialize in developing and design";
+    }
+    /* string 3, char 38 */
+    20.4160352666%, 20.5527952886% {
+      content: "I specialize in developing and designi";
+    }
+    /* string 3, char 39 */
+    20.5537952886%, 20.6905553106% {
+      content: "I specialize in developing and designin";
+    }
+    /* string 3, char 40 */
+    20.6915553106%, 20.8283153327% {
+      content: "I specialize in developing and designing";
+    }
+    /* string 3, char 41 */
+    20.8293153327%, 20.9660753547% {
+      content: "I specialize in developing and designing ";
+    }
+    /* string 3, char 42 */
+    20.9670753547%, 21.1038353768% {
+      content: "I specialize in developing and designing e";
+    }
+    /* string 3, char 43 */
+    21.1048353768%, 21.2415953988% {
+      content: "I specialize in developing and designing ex";
+    }
+    /* string 3, char 44 */
+    21.2425953988%, 21.3793554209% {
+      content: "I specialize in developing and designing exc";
+    }
+    /* string 3, char 45 */
+    21.3803554209%, 21.5171154429% {
+      content: "I specialize in developing and designing exce";
+    }
+    /* string 3, char 46 */
+    21.5181154429%, 21.6548754649% {
+      content: "I specialize in developing and designing excep";
+    }
+    /* string 3, char 47 */
+    21.6558754649%, 21.792635487% {
+      content: "I specialize in developing and designing except";
+    }
+    /* string 3, char 48 */
+    21.793635487%, 21.930395509% {
+      content: "I specialize in developing and designing excepti";
+    }
+    /* string 3, char 49 */
+    21.931395509%, 22.0681555311% {
+      content: "I specialize in developing and designing exceptio";
+    }
+    /* string 3, char 50 */
+    22.0691555311%, 22.2059155531% {
+      content: "I specialize in developing and designing exception";
+    }
+    /* string 3, char 51 */
+    22.2069155531%, 22.3436755751% {
+      content: "I specialize in developing and designing exceptiona";
+    }
+    /* string 3, char 52 */
+    22.3446755751%, 22.4814355972% {
+      content: "I specialize in developing and designing exceptional";
+    }
+    /* string 3, char 53 */
+    22.4824355972%, 22.6191956192% {
+      content: "I specialize in developing and designing exceptional ";
+    }
+    /* string 3, char 54 */
+    22.6201956192%, 22.7569556413% {
+      content: "I specialize in developing and designing exceptional d";
+    }
+    /* string 3, char 55 */
+    22.7579556413%, 22.8947156633% {
+      content: "I specialize in developing and designing exceptional di";
+    }
+    /* string 3, char 56 */
+    22.8957156633%, 23.0324756854% {
+      content: "I specialize in developing and designing exceptional dig";
+    }
+    /* string 3, char 57 */
+    23.0334756854%, 23.1702357074% {
+      content: "I specialize in developing and designing exceptional digi";
+    }
+    /* string 3, char 58 */
+    23.1712357074%, 23.3079957294% {
+      content: "I specialize in developing and designing exceptional digit";
+    }
+    /* string 3, char 59 */
+    23.3089957294%, 23.4457557515% {
+      content: "I specialize in developing and designing exceptional digita";
+    }
+    /* string 3, char 60 */
+    23.4467557515%, 23.5835157735% {
+      content: "I specialize in developing and designing exceptional digital";
+    }
+    /* string 3, char 61 */
+    23.5845157735%, 23.7212757956% {
+      content: "I specialize in developing and designing exceptional digital ";
+    }
+    /* string 3, char 62 */
+    23.7222757956%, 23.8590358176% {
+      content: "I specialize in developing and designing exceptional digital e";
+    }
+    /* string 3, char 63 */
+    23.8600358176%, 23.9967958396% {
+      content: "I specialize in developing and designing exceptional digital ex";
+    }
+    /* string 3, char 64 */
+    23.9977958396%, 24.1345558617% {
+      content: "I specialize in developing and designing exceptional digital exp";
+    }
+    /* string 3, char 65 */
+    24.1355558617%, 24.2723158837% {
+      content: "I specialize in developing and designing exceptional digital expe";
+    }
+    /* string 3, char 66 */
+    24.2733158837%, 24.4100759058% {
+      content: "I specialize in developing and designing exceptional digital exper";
+    }
+    /* string 3, char 67 */
+    24.4110759058%, 24.5478359278% {
+      content: "I specialize in developing and designing exceptional digital experi";
+    }
+    /* string 3, char 68 */
+    24.5488359278%, 24.6855959499% {
+      content: "I specialize in developing and designing exceptional digital experie";
+    }
+    /* string 3, char 69 */
+    24.6865959499%, 24.8233559719% {
+      content: "I specialize in developing and designing exceptional digital experien";
+    }
+    /* string 3, char 70 */
+    24.8243559719%, 24.9611159939% {
+      content: "I specialize in developing and designing exceptional digital experienc";
+    }
+    /* string 3, char 71 */
+    24.9621159939%, 25.098876016% {
+      content: "I specialize in developing and designing exceptional digital experience";
+    }
+    /* string 3, char 72 */
+    25.099876016%, 25.236636038% {
+      content: "I specialize in developing and designing exceptional digital experiences";
+    }
+    /* string 3, char 73 */
+    25.237636038%, 29.5485247279% {
+      content: "I specialize in developing and designing exceptional digital experiences.";
+    }
+    /* string 3, char 74 */
+    29.5495247279%, 29.5898527345% {
+      content: "I specialize in developing and designing exceptional digital experiences";
+    }
+    /* string 3, char 75 */
+    29.5908527345%, 29.6311807411% {
+      content: "I specialize in developing and designing exceptional digital experience";
+    }
+    /* string 3, char 76 */
+    29.6321807411%, 29.6725087478% {
+      content: "I specialize in developing and designing exceptional digital experienc";
+    }
+    /* string 3, char 77 */
+    29.6735087478%, 29.7138367544% {
+      content: "I specialize in developing and designing exceptional digital experien";
+    }
+    /* string 3, char 78 */
+    29.7148367544%, 29.755164761% {
+      content: "I specialize in developing and designing exceptional digital experie";
+    }
+    /* string 3, char 79 */
+    29.756164761%, 29.7964927676% {
+      content: "I specialize in developing and designing exceptional digital experi";
+    }
+    /* string 3, char 80 */
+    29.7974927676%, 29.8378207742% {
+      content: "I specialize in developing and designing exceptional digital exper";
+    }
+    /* string 3, char 81 */
+    29.8388207742%, 29.8791487808% {
+      content: "I specialize in developing and designing exceptional digital expe";
+    }
+    /* string 3, char 82 */
+    29.8801487808%, 29.9204767874% {
+      content: "I specialize in developing and designing exceptional digital exp";
+    }
+    /* string 3, char 83 */
+    29.9214767874%, 29.961804794% {
+      content: "I specialize in developing and designing exceptional digital ex";
+    }
+    /* string 3, char 84 */
+    29.962804794%, 30.0031328007% {
+      content: "I specialize in developing and designing exceptional digital e";
+    }
+    /* string 3, char 85 */
+    30.0041328007%, 30.0444608073% {
+      content: "I specialize in developing and designing exceptional digital ";
+    }
+    /* string 3, char 86 */
+    30.0454608073%, 30.0857888139% {
+      content: "I specialize in developing and designing exceptional digital";
+    }
+    /* string 3, char 87 */
+    30.0867888139%, 30.1271168205% {
+      content: "I specialize in developing and designing exceptional digita";
+    }
+    /* string 3, char 88 */
+    30.1281168205%, 30.1684448271% {
+      content: "I specialize in developing and designing exceptional digit";
+    }
+    /* string 3, char 89 */
+    30.1694448271%, 30.2097728337% {
+      content: "I specialize in developing and designing exceptional digi";
+    }
+    /* string 3, char 90 */
+    30.2107728337%, 30.2511008403% {
+      content: "I specialize in developing and designing exceptional dig";
+    }
+    /* string 3, char 91 */
+    30.2521008403%, 30.2924288469% {
+      content: "I specialize in developing and designing exceptional di";
+    }
+    /* string 3, char 92 */
+    30.2934288469%, 30.3337568536% {
+      content: "I specialize in developing and designing exceptional d";
+    }
+    /* string 3, char 93 */
+    30.3347568536%, 30.3750848602% {
+      content: "I specialize in developing and designing exceptional ";
+    }
+    /* string 3, char 94 */
+    30.3760848602%, 30.4164128668% {
+      content: "I specialize in developing and designing exceptional";
+    }
+    /* string 3, char 95 */
+    30.4174128668%, 30.4577408734% {
+      content: "I specialize in developing and designing exceptiona";
+    }
+    /* string 3, char 96 */
+    30.4587408734%, 30.49906888% {
+      content: "I specialize in developing and designing exception";
+    }
+    /* string 3, char 97 */
+    30.50006888%, 30.5403968866% {
+      content: "I specialize in developing and designing exceptio";
+    }
+    /* string 3, char 98 */
+    30.5413968866%, 30.5817248932% {
+      content: "I specialize in developing and designing excepti";
+    }
+    /* string 3, char 99 */
+    30.5827248932%, 30.6230528998% {
+      content: "I specialize in developing and designing except";
+    }
+    /* string 3, char 100 */
+    30.6240528998%, 30.6643809065% {
+      content: "I specialize in developing and designing excep";
+    }
+    /* string 3, char 101 */
+    30.6653809065%, 30.7057089131% {
+      content: "I specialize in developing and designing exce";
+    }
+    /* string 3, char 102 */
+    30.7067089131%, 30.7470369197% {
+      content: "I specialize in developing and designing exc";
+    }
+    /* string 3, char 103 */
+    30.7480369197%, 30.7883649263% {
+      content: "I specialize in developing and designing ex";
+    }
+    /* string 3, char 104 */
+    30.7893649263%, 30.8296929329% {
+      content: "I specialize in developing and designing e";
+    }
+    /* string 3, char 105 */
+    30.8306929329%, 30.8710209395% {
+      content: "I specialize in developing and designing ";
+    }
+    /* string 3, char 106 */
+    30.8720209395%, 30.9123489461% {
+      content: "I specialize in developing and designing";
+    }
+    /* string 3, char 107 */
+    30.9133489461%, 30.9536769527% {
+      content: "I specialize in developing and designin";
+    }
+    /* string 3, char 108 */
+    30.9546769527%, 30.9950049594% {
+      content: "I specialize in developing and designi";
+    }
+    /* string 3, char 109 */
+    30.9960049594%, 31.036332966% {
+      content: "I specialize in developing and design";
+    }
+    /* string 3, char 110 */
+    31.037332966%, 31.0776609726% {
+      content: "I specialize in developing and desig";
+    }
+    /* string 3, char 111 */
+    31.0786609726%, 31.1189889792% {
+      content: "I specialize in developing and desi";
+    }
+    /* string 3, char 112 */
+    31.1199889792%, 31.1603169858% {
+      content: "I specialize in developing and des";
+    }
+    /* string 3, char 113 */
+    31.1613169858%, 31.2016449924% {
+      content: "I specialize in developing and de";
+    }
+    /* string 3, char 114 */
+    31.2026449924%, 31.242972999% {
+      content: "I specialize in developing and d";
+    }
+    /* string 3, char 115 */
+    31.243972999%, 31.2843010056% {
+      content: "I specialize in developing and ";
+    }
+    /* string 3, char 116 */
+    31.2853010056%, 31.3256290123% {
+      content: "I specialize in developing and";
+    }
+    /* string 3, char 117 */
+    31.3266290123%, 31.3669570189% {
+      content: "I specialize in developing an";
+    }
+    /* string 3, char 118 */
+    31.3679570189%, 31.4082850255% {
+      content: "I specialize in developing a";
+    }
+    /* string 3, char 119 */
+    31.4092850255%, 31.4496130321% {
+      content: "I specialize in developing ";
+    }
+    /* string 3, char 120 */
+    31.4506130321%, 31.4909410387% {
+      content: "I specialize in developing";
+    }
+    /* string 3, char 121 */
+    31.4919410387%, 31.5322690453% {
+      content: "I specialize in developin";
+    }
+    /* string 3, char 122 */
+    31.5332690453%, 31.5735970519% {
+      content: "I specialize in developi";
+    }
+    /* string 3, char 123 */
+    31.5745970519%, 31.6149250585% {
+      content: "I specialize in develop";
+    }
+    /* string 3, char 124 */
+    31.6159250585%, 31.6562530652% {
+      content: "I specialize in develo";
+    }
+    /* string 3, char 125 */
+    31.6572530652%, 31.6975810718% {
+      content: "I specialize in devel";
+    }
+    /* string 3, char 126 */
+    31.6985810718%, 31.7389090784% {
+      content: "I specialize in deve";
+    }
+    /* string 3, char 127 */
+    31.7399090784%, 31.780237085% {
+      content: "I specialize in dev";
+    }
+    /* string 3, char 128 */
+    31.781237085%, 31.8215650916% {
+      content: "I specialize in de";
+    }
+    /* string 3, char 129 */
+    31.8225650916%, 31.8628930982% {
+      content: "I specialize in d";
+    }
+    /* string 3, char 130 */
+    31.8638930982%, 31.9042211048% {
+      content: "I specialize in ";
+    }
+    /* string 3, char 131 */
+    31.9052211048%, 31.9455491114% {
+      content: "I specialize in";
+    }
+    /* string 3, char 132 */
+    31.9465491114%, 31.9868771181% {
+      content: "I specialize i";
+    }
+    /* string 3, char 133 */
+    31.9878771181%, 32.0282051247% {
+      content: "I specialize ";
+    }
+    /* string 3, char 134 */
+    32.0292051247%, 32.0695331313% {
+      content: "I specialize";
+    }
+    /* string 3, char 135 */
+    32.0705331313%, 32.1108611379% {
+      content: "I specializ";
+    }
+    /* string 3, char 136 */
+    32.1118611379%, 32.1521891445% {
+      content: "I speciali";
+    }
+    /* string 3, char 137 */
+    32.1531891445%, 32.1935171511% {
+      content: "I special";
+    }
+    /* string 3, char 138 */
+    32.1945171511%, 32.2348451577% {
+      content: "I specia";
+    }
+    /* string 3, char 139 */
+    32.2358451577%, 32.2761731643% {
+      content: "I speci";
+    }
+    /* string 3, char 140 */
+    32.2771731643%, 32.317501171% {
+      content: "I spec";
+    }
+    /* string 3, char 141 */
+    32.318501171%, 32.3588291776% {
+      content: "I spe";
+    }
+    /* string 3, char 142 */
+    32.3598291776%, 32.4001571842% {
+      content: "I sp";
+    }
+    /* string 3, char 143 */
+    32.4011571842%, 32.4414851908% {
+      content: "I s";
+    }
+    /* string 3, char 144 */
+    32.4424851908%, 32.4828131974% {
+      content: "I ";
+    }
+    /* string 3, char 145 */
+    32.4838131974%, 32.524141204% {
+      content: "I";
+    }
+    /* string 3, char 146 */
+    32.525141204%, 33.9017414244% {
+      content: "​";
+    }
+    /* string 4, char 1 */
+    33.9027414244%, 34.0395014465% {
+      content: "I";
+    }
+    /* string 4, char 2 */
+    34.0405014465%, 34.1772614685% {
+      content: "I'";
+    }
+    /* string 4, char 3 */
+    34.1782614685%, 34.3150214906% {
+      content: "I'm";
+    }
+    /* string 4, char 4 */
+    34.3160214906%, 34.4527815126% {
+      content: "I'm ";
+    }
+    /* string 4, char 5 */
+    34.4537815126%, 34.5905415346% {
+      content: "I'm a";
+    }
+    /* string 4, char 6 */
+    34.5915415346%, 34.7283015567% {
+      content: "I'm a ";
+    }
+    /* string 4, char 7 */
+    34.7293015567%, 34.8660615787% {
+      content: "I'm a f";
+    }
+    /* string 4, char 8 */
+    34.8670615787%, 35.0038216008% {
+      content: "I'm a fu";
+    }
+    /* string 4, char 9 */
+    35.0048216008%, 35.1415816228% {
+      content: "I'm a ful";
+    }
+    /* string 4, char 10 */
+    35.1425816228%, 35.2793416449% {
+      content: "I'm a full";
+    }
+    /* string 4, char 11 */
+    35.2803416449%, 35.4171016669% {
+      content: "I'm a full-";
+    }
+    /* string 4, char 12 */
+    35.4181016669%, 35.5548616889% {
+      content: "I'm a full-s";
+    }
+    /* string 4, char 13 */
+    35.5558616889%, 35.692621711% {
+      content: "I'm a full-st";
+    }
+    /* string 4, char 14 */
+    35.693621711%, 35.830381733% {
+      content: "I'm a full-sta";
+    }
+    /* string 4, char 15 */
+    35.831381733%, 35.9681417551% {
+      content: "I'm a full-stac";
+    }
+    /* string 4, char 16 */
+    35.9691417551%, 36.1059017771% {
+      content: "I'm a full-stack";
+    }
+    /* string 4, char 17 */
+    36.1069017771%, 36.2436617991% {
+      content: "I'm a full-stack ";
+    }
+    /* string 4, char 18 */
+    36.2446617991%, 36.3814218212% {
+      content: "I'm a full-stack s";
+    }
+    /* string 4, char 19 */
+    36.3824218212%, 36.5191818432% {
+      content: "I'm a full-stack so";
+    }
+    /* string 4, char 20 */
+    36.5201818432%, 36.6569418653% {
+      content: "I'm a full-stack sof";
+    }
+    /* string 4, char 21 */
+    36.6579418653%, 36.7947018873% {
+      content: "I'm a full-stack soft";
+    }
+    /* string 4, char 22 */
+    36.7957018873%, 36.9324619094% {
+      content: "I'm a full-stack softw";
+    }
+    /* string 4, char 23 */
+    36.9334619094%, 37.0702219314% {
+      content: "I'm a full-stack softwa";
+    }
+    /* string 4, char 24 */
+    37.0712219314%, 37.2079819534% {
+      content: "I'm a full-stack softwar";
+    }
+    /* string 4, char 25 */
+    37.2089819534%, 37.3457419755% {
+      content: "I'm a full-stack software";
+    }
+    /* string 4, char 26 */
+    37.3467419755%, 37.4835019975% {
+      content: "I'm a full-stack software ";
+    }
+    /* string 4, char 27 */
+    37.4845019975%, 37.6212620196% {
+      content: "I'm a full-stack software d";
+    }
+    /* string 4, char 28 */
+    37.6222620196%, 37.7590220416% {
+      content: "I'm a full-stack software de";
+    }
+    /* string 4, char 29 */
+    37.7600220416%, 37.8967820636% {
+      content: "I'm a full-stack software dev";
+    }
+    /* string 4, char 30 */
+    37.8977820636%, 38.0345420857% {
+      content: "I'm a full-stack software deve";
+    }
+    /* string 4, char 31 */
+    38.0355420857%, 38.1723021077% {
+      content: "I'm a full-stack software devel";
+    }
+    /* string 4, char 32 */
+    38.1733021077%, 38.3100621298% {
+      content: "I'm a full-stack software develo";
+    }
+    /* string 4, char 33 */
+    38.3110621298%, 38.4478221518% {
+      content: "I'm a full-stack software develop";
+    }
+    /* string 4, char 34 */
+    38.4488221518%, 38.5855821739% {
+      content: "I'm a full-stack software develope";
+    }
+    /* string 4, char 35 */
+    38.5865821739%, 38.7233421959% {
+      content: "I'm a full-stack software developer";
+    }
+    /* string 4, char 36 */
+    38.7243421959%, 38.8611022179% {
+      content: "I'm a full-stack software developer,";
+    }
+    /* string 4, char 37 */
+    38.8621022179%, 38.99886224% {
+      content: "I'm a full-stack software developer, ";
+    }
+    /* string 4, char 38 */
+    38.99986224%, 39.136622262% {
+      content: "I'm a full-stack software developer, a";
+    }
+    /* string 4, char 39 */
+    39.137622262%, 39.2743822841% {
+      content: "I'm a full-stack software developer, ad";
+    }
+    /* string 4, char 40 */
+    39.2753822841%, 39.4121423061% {
+      content: "I'm a full-stack software developer, adv";
+    }
+    /* string 4, char 41 */
+    39.4131423061%, 39.5499023281% {
+      content: "I'm a full-stack software developer, advi";
+    }
+    /* string 4, char 42 */
+    39.5509023281%, 39.6876623502% {
+      content: "I'm a full-stack software developer, advid";
+    }
+    /* string 4, char 43 */
+    39.6886623502%, 39.8254223722% {
+      content: "I'm a full-stack software developer, advid ";
+    }
+    /* string 4, char 44 */
+    39.8264223722%, 39.9631823943% {
+      content: "I'm a full-stack software developer, advid l";
+    }
+    /* string 4, char 45 */
+    39.9641823943%, 40.1009424163% {
+      content: "I'm a full-stack software developer, advid le";
+    }
+    /* string 4, char 46 */
+    40.1019424163%, 40.2387024384% {
+      content: "I'm a full-stack software developer, advid lea";
+    }
+    /* string 4, char 47 */
+    40.2397024384%, 40.3764624604% {
+      content: "I'm a full-stack software developer, advid lear";
+    }
+    /* string 4, char 48 */
+    40.3774624604%, 40.5142224824% {
+      content: "I'm a full-stack software developer, advid learn";
+    }
+    /* string 4, char 49 */
+    40.5152224824%, 40.6519825045% {
+      content: "I'm a full-stack software developer, advid learne";
+    }
+    /* string 4, char 50 */
+    40.6529825045%, 40.7897425265% {
+      content: "I'm a full-stack software developer, advid learner";
+    }
+    /* string 4, char 51 */
+    40.7907425265%, 40.9275025486% {
+      content: "I'm a full-stack software developer, advid learner,";
+    }
+    /* string 4, char 52 */
+    40.9285025486%, 41.0652625706% {
+      content: "I'm a full-stack software developer, advid learner, ";
+    }
+    /* string 4, char 53 */
+    41.0662625706%, 41.2030225926% {
+      content: "I'm a full-stack software developer, advid learner, g";
+    }
+    /* string 4, char 54 */
+    41.2040225926%, 41.3407826147% {
+      content: "I'm a full-stack software developer, advid learner, ga";
+    }
+    /* string 4, char 55 */
+    41.3417826147%, 41.4785426367% {
+      content: "I'm a full-stack software developer, advid learner, gam";
+    }
+    /* string 4, char 56 */
+    41.4795426367%, 41.6163026588% {
+      content: "I'm a full-stack software developer, advid learner, game";
+    }
+    /* string 4, char 57 */
+    41.6173026588%, 41.7540626808% {
+      content: "I'm a full-stack software developer, advid learner, gamer";
+    }
+    /* string 4, char 58 */
+    41.7550626808%, 41.8918227029% {
+      content: "I'm a full-stack software developer, advid learner, gamer ";
+    }
+    /* string 4, char 59 */
+    41.8928227029%, 42.0295827249% {
+      content: "I'm a full-stack software developer, advid learner, gamer a";
+    }
+    /* string 4, char 60 */
+    42.0305827249%, 42.1673427469% {
+      content: "I'm a full-stack software developer, advid learner, gamer an";
+    }
+    /* string 4, char 61 */
+    42.1683427469%, 42.305102769% {
+      content: "I'm a full-stack software developer, advid learner, gamer and";
+    }
+    /* string 4, char 62 */
+    42.306102769%, 42.442862791% {
+      content: "I'm a full-stack software developer, advid learner, gamer and ";
+    }
+    /* string 4, char 63 */
+    42.443862791%, 42.5806228131% {
+      content: "I'm a full-stack software developer, advid learner, gamer and f";
+    }
+    /* string 4, char 64 */
+    42.5816228131%, 42.7183828351% {
+      content: "I'm a full-stack software developer, advid learner, gamer and fa";
+    }
+    /* string 4, char 65 */
+    42.7193828351%, 42.8561428571% {
+      content: "I'm a full-stack software developer, advid learner, gamer and fat";
+    }
+    /* string 4, char 66 */
+    42.8571428571%, 42.9939028792% {
+      content: "I'm a full-stack software developer, advid learner, gamer and fath";
+    }
+    /* string 4, char 67 */
+    42.9949028792%, 43.1316629012% {
+      content: "I'm a full-stack software developer, advid learner, gamer and fathe";
+    }
+    /* string 4, char 68 */
+    43.1326629012%, 43.2694229233% {
+      content: "I'm a full-stack software developer, advid learner, gamer and father";
+    }
+    /* string 4, char 69 */
+    43.2704229233%, 47.5813116132% {
+      content: "I'm a full-stack software developer, advid learner, gamer and father.";
+    }
+    /* string 4, char 70 */
+    47.5823116132%, 47.6226396198% {
+      content: "I'm a full-stack software developer, advid learner, gamer and father";
+    }
+    /* string 4, char 71 */
+    47.6236396198%, 47.6639676264% {
+      content: "I'm a full-stack software developer, advid learner, gamer and fathe";
+    }
+    /* string 4, char 72 */
+    47.6649676264%, 47.705295633% {
+      content: "I'm a full-stack software developer, advid learner, gamer and fath";
+    }
+    /* string 4, char 73 */
+    47.706295633%, 47.7466236396% {
+      content: "I'm a full-stack software developer, advid learner, gamer and fat";
+    }
+    /* string 4, char 74 */
+    47.7476236396%, 47.7879516462% {
+      content: "I'm a full-stack software developer, advid learner, gamer and fa";
+    }
+    /* string 4, char 75 */
+    47.7889516462%, 47.8292796528% {
+      content: "I'm a full-stack software developer, advid learner, gamer and f";
+    }
+    /* string 4, char 76 */
+    47.8302796528%, 47.8706076595% {
+      content: "I'm a full-stack software developer, advid learner, gamer and ";
+    }
+    /* string 4, char 77 */
+    47.8716076595%, 47.9119356661% {
+      content: "I'm a full-stack software developer, advid learner, gamer and";
+    }
+    /* string 4, char 78 */
+    47.9129356661%, 47.9532636727% {
+      content: "I'm a full-stack software developer, advid learner, gamer an";
+    }
+    /* string 4, char 79 */
+    47.9542636727%, 47.9945916793% {
+      content: "I'm a full-stack software developer, advid learner, gamer a";
+    }
+    /* string 4, char 80 */
+    47.9955916793%, 48.0359196859% {
+      content: "I'm a full-stack software developer, advid learner, gamer ";
+    }
+    /* string 4, char 81 */
+    48.0369196859%, 48.0772476925% {
+      content: "I'm a full-stack software developer, advid learner, gamer";
+    }
+    /* string 4, char 82 */
+    48.0782476925%, 48.1185756991% {
+      content: "I'm a full-stack software developer, advid learner, game";
+    }
+    /* string 4, char 83 */
+    48.1195756991%, 48.1599037057% {
+      content: "I'm a full-stack software developer, advid learner, gam";
+    }
+    /* string 4, char 84 */
+    48.1609037057%, 48.2012317124% {
+      content: "I'm a full-stack software developer, advid learner, ga";
+    }
+    /* string 4, char 85 */
+    48.2022317124%, 48.242559719% {
+      content: "I'm a full-stack software developer, advid learner, g";
+    }
+    /* string 4, char 86 */
+    48.243559719%, 48.2838877256% {
+      content: "I'm a full-stack software developer, advid learner, ";
+    }
+    /* string 4, char 87 */
+    48.2848877256%, 48.3252157322% {
+      content: "I'm a full-stack software developer, advid learner,";
+    }
+    /* string 4, char 88 */
+    48.3262157322%, 48.3665437388% {
+      content: "I'm a full-stack software developer, advid learner";
+    }
+    /* string 4, char 89 */
+    48.3675437388%, 48.4078717454% {
+      content: "I'm a full-stack software developer, advid learne";
+    }
+    /* string 4, char 90 */
+    48.4088717454%, 48.449199752% {
+      content: "I'm a full-stack software developer, advid learn";
+    }
+    /* string 4, char 91 */
+    48.450199752%, 48.4905277586% {
+      content: "I'm a full-stack software developer, advid lear";
+    }
+    /* string 4, char 92 */
+    48.4915277586%, 48.5318557653% {
+      content: "I'm a full-stack software developer, advid lea";
+    }
+    /* string 4, char 93 */
+    48.5328557653%, 48.5731837719% {
+      content: "I'm a full-stack software developer, advid le";
+    }
+    /* string 4, char 94 */
+    48.5741837719%, 48.6145117785% {
+      content: "I'm a full-stack software developer, advid l";
+    }
+    /* string 4, char 95 */
+    48.6155117785%, 48.6558397851% {
+      content: "I'm a full-stack software developer, advid ";
+    }
+    /* string 4, char 96 */
+    48.6568397851%, 48.6971677917% {
+      content: "I'm a full-stack software developer, advid";
+    }
+    /* string 4, char 97 */
+    48.6981677917%, 48.7384957983% {
+      content: "I'm a full-stack software developer, advi";
+    }
+    /* string 4, char 98 */
+    48.7394957983%, 48.7798238049% {
+      content: "I'm a full-stack software developer, adv";
+    }
+    /* string 4, char 99 */
+    48.7808238049%, 48.8211518115% {
+      content: "I'm a full-stack software developer, ad";
+    }
+    /* string 4, char 100 */
+    48.8221518115%, 48.8624798182% {
+      content: "I'm a full-stack software developer, a";
+    }
+    /* string 4, char 101 */
+    48.8634798182%, 48.9038078248% {
+      content: "I'm a full-stack software developer, ";
+    }
+    /* string 4, char 102 */
+    48.9048078248%, 48.9451358314% {
+      content: "I'm a full-stack software developer,";
+    }
+    /* string 4, char 103 */
+    48.9461358314%, 48.986463838% {
+      content: "I'm a full-stack software developer";
+    }
+    /* string 4, char 104 */
+    48.987463838%, 49.0277918446% {
+      content: "I'm a full-stack software develope";
+    }
+    /* string 4, char 105 */
+    49.0287918446%, 49.0691198512% {
+      content: "I'm a full-stack software develop";
+    }
+    /* string 4, char 106 */
+    49.0701198512%, 49.1104478578% {
+      content: "I'm a full-stack software develo";
+    }
+    /* string 4, char 107 */
+    49.1114478578%, 49.1517758644% {
+      content: "I'm a full-stack software devel";
+    }
+    /* string 4, char 108 */
+    49.1527758644%, 49.1931038711% {
+      content: "I'm a full-stack software deve";
+    }
+    /* string 4, char 109 */
+    49.1941038711%, 49.2344318777% {
+      content: "I'm a full-stack software dev";
+    }
+    /* string 4, char 110 */
+    49.2354318777%, 49.2757598843% {
+      content: "I'm a full-stack software de";
+    }
+    /* string 4, char 111 */
+    49.2767598843%, 49.3170878909% {
+      content: "I'm a full-stack software d";
+    }
+    /* string 4, char 112 */
+    49.3180878909%, 49.3584158975% {
+      content: "I'm a full-stack software ";
+    }
+    /* string 4, char 113 */
+    49.3594158975%, 49.3997439041% {
+      content: "I'm a full-stack software";
+    }
+    /* string 4, char 114 */
+    49.4007439041%, 49.4410719107% {
+      content: "I'm a full-stack softwar";
+    }
+    /* string 4, char 115 */
+    49.4420719107%, 49.4823999173% {
+      content: "I'm a full-stack softwa";
+    }
+    /* string 4, char 116 */
+    49.4833999173%, 49.523727924% {
+      content: "I'm a full-stack softw";
+    }
+    /* string 4, char 117 */
+    49.524727924%, 49.5650559306% {
+      content: "I'm a full-stack soft";
+    }
+    /* string 4, char 118 */
+    49.5660559306%, 49.6063839372% {
+      content: "I'm a full-stack sof";
+    }
+    /* string 4, char 119 */
+    49.6073839372%, 49.6477119438% {
+      content: "I'm a full-stack so";
+    }
+    /* string 4, char 120 */
+    49.6487119438%, 49.6890399504% {
+      content: "I'm a full-stack s";
+    }
+    /* string 4, char 121 */
+    49.6900399504%, 49.730367957% {
+      content: "I'm a full-stack ";
+    }
+    /* string 4, char 122 */
+    49.731367957%, 49.7716959636% {
+      content: "I'm a full-stack";
+    }
+    /* string 4, char 123 */
+    49.7726959636%, 49.8130239702% {
+      content: "I'm a full-stac";
+    }
+    /* string 4, char 124 */
+    49.8140239702%, 49.8543519769% {
+      content: "I'm a full-sta";
+    }
+    /* string 4, char 125 */
+    49.8553519769%, 49.8956799835% {
+      content: "I'm a full-st";
+    }
+    /* string 4, char 126 */
+    49.8966799835%, 49.9370079901% {
+      content: "I'm a full-s";
+    }
+    /* string 4, char 127 */
+    49.9380079901%, 49.9783359967% {
+      content: "I'm a full-";
+    }
+    /* string 4, char 128 */
+    49.9793359967%, 50.0196640033% {
+      content: "I'm a full";
+    }
+    /* string 4, char 129 */
+    50.0206640033%, 50.0609920099% {
+      content: "I'm a ful";
+    }
+    /* string 4, char 130 */
+    50.0619920099%, 50.1023200165% {
+      content: "I'm a fu";
+    }
+    /* string 4, char 131 */
+    50.1033200165%, 50.1436480231% {
+      content: "I'm a f";
+    }
+    /* string 4, char 132 */
+    50.1446480231%, 50.1849760298% {
+      content: "I'm a ";
+    }
+    /* string 4, char 133 */
+    50.1859760298%, 50.2263040364% {
+      content: "I'm a";
+    }
+    /* string 4, char 134 */
+    50.2273040364%, 50.267632043% {
+      content: "I'm ";
+    }
+    /* string 4, char 135 */
+    50.268632043%, 50.3089600496% {
+      content: "I'm";
+    }
+    /* string 4, char 136 */
+    50.3099600496%, 50.3502880562% {
+      content: "I'";
+    }
+    /* string 4, char 137 */
+    50.3512880562%, 50.3916160628% {
+      content: "I";
+    }
+    /* string 4, char 138 */
+    50.3926160628%, 51.7692162832% {
+      content: "​";
+    }
+    /* string 5, char 1 */
+    51.7702162832%, 51.9069763053% {
+      content: "I";
+    }
+    /* string 5, char 2 */
+    51.9079763053%, 52.0447363273% {
+      content: "I ";
+    }
+    /* string 5, char 3 */
+    52.0457363273%, 52.1824963494% {
+      content: "I l";
+    }
+    /* string 5, char 4 */
+    52.1834963494%, 52.3202563714% {
+      content: "I lo";
+    }
+    /* string 5, char 5 */
+    52.3212563714%, 52.4580163934% {
+      content: "I lov";
+    }
+    /* string 5, char 6 */
+    52.4590163934%, 52.5957764155% {
+      content: "I love";
+    }
+    /* string 5, char 7 */
+    52.5967764155%, 52.7335364375% {
+      content: "I love ";
+    }
+    /* string 5, char 8 */
+    52.7345364375%, 52.8712964596% {
+      content: "I love a";
+    }
+    /* string 5, char 9 */
+    52.8722964596%, 53.0090564816% {
+      content: "I love al";
+    }
+    /* string 5, char 10 */
+    53.0100564816%, 53.1468165037% {
+      content: "I love all";
+    }
+    /* string 5, char 11 */
+    53.1478165037%, 53.2845765257% {
+      content: "I love all ";
+    }
+    /* string 5, char 12 */
+    53.2855765257%, 53.4223365477% {
+      content: "I love all t";
+    }
+    /* string 5, char 13 */
+    53.4233365477%, 53.5600965698% {
+      content: "I love all th";
+    }
+    /* string 5, char 14 */
+    53.5610965698%, 53.6978565918% {
+      content: "I love all thi";
+    }
+    /* string 5, char 15 */
+    53.6988565918%, 53.8356166139% {
+      content: "I love all thin";
+    }
+    /* string 5, char 16 */
+    53.8366166139%, 53.9733766359% {
+      content: "I love all thing";
+    }
+    /* string 5, char 17 */
+    53.9743766359%, 54.1111366579% {
+      content: "I love all things";
+    }
+    /* string 5, char 18 */
+    54.1121366579%, 54.24889668% {
+      content: "I love all things ";
+    }
+    /* string 5, char 19 */
+    54.24989668%, 54.386656702% {
+      content: "I love all things t";
+    }
+    /* string 5, char 20 */
+    54.387656702%, 54.5244167241% {
+      content: "I love all things te";
+    }
+    /* string 5, char 21 */
+    54.5254167241%, 54.6621767461% {
+      content: "I love all things tec";
+    }
+    /* string 5, char 22 */
+    54.6631767461%, 54.7999367681% {
+      content: "I love all things tech";
+    }
+    /* string 5, char 23 */
+    54.8009367681%, 54.9376967902% {
+      content: "I love all things techn";
+    }
+    /* string 5, char 24 */
+    54.9386967902%, 55.0754568122% {
+      content: "I love all things techno";
+    }
+    /* string 5, char 25 */
+    55.0764568122%, 55.2132168343% {
+      content: "I love all things technol";
+    }
+    /* string 5, char 26 */
+    55.2142168343%, 55.3509768563% {
+      content: "I love all things technolo";
+    }
+    /* string 5, char 27 */
+    55.3519768563%, 55.4887368784% {
+      content: "I love all things technolog";
+    }
+    /* string 5, char 28 */
+    55.4897368784%, 55.6264969004% {
+      content: "I love all things technology";
+    }
+    /* string 5, char 29 */
+    55.6274969004%, 55.7642569224% {
+      content: "I love all things technology ";
+    }
+    /* string 5, char 30 */
+    55.7652569224%, 55.9020169445% {
+      content: "I love all things technology a";
+    }
+    /* string 5, char 31 */
+    55.9030169445%, 56.0397769665% {
+      content: "I love all things technology an";
+    }
+    /* string 5, char 32 */
+    56.0407769665%, 56.1775369886% {
+      content: "I love all things technology and";
+    }
+    /* string 5, char 33 */
+    56.1785369886%, 56.3152970106% {
+      content: "I love all things technology and ";
+    }
+    /* string 5, char 34 */
+    56.3162970106%, 56.4530570326% {
+      content: "I love all things technology and a";
+    }
+    /* string 5, char 35 */
+    56.4540570326%, 56.5908170547% {
+      content: "I love all things technology and am";
+    }
+    /* string 5, char 36 */
+    56.5918170547%, 56.7285770767% {
+      content: "I love all things technology and am ";
+    }
+    /* string 5, char 37 */
+    56.7295770767%, 56.8663370988% {
+      content: "I love all things technology and am c";
+    }
+    /* string 5, char 38 */
+    56.8673370988%, 57.0040971208% {
+      content: "I love all things technology and am co";
+    }
+    /* string 5, char 39 */
+    57.0050971208%, 57.1418571429% {
+      content: "I love all things technology and am con";
+    }
+    /* string 5, char 40 */
+    57.1428571429%, 57.2796171649% {
+      content: "I love all things technology and am cons";
+    }
+    /* string 5, char 41 */
+    57.2806171649%, 57.4173771869% {
+      content: "I love all things technology and am const";
+    }
+    /* string 5, char 42 */
+    57.4183771869%, 57.555137209% {
+      content: "I love all things technology and am consta";
+    }
+    /* string 5, char 43 */
+    57.556137209%, 57.692897231% {
+      content: "I love all things technology and am constan";
+    }
+    /* string 5, char 44 */
+    57.693897231%, 57.8306572531% {
+      content: "I love all things technology and am constant";
+    }
+    /* string 5, char 45 */
+    57.8316572531%, 57.9684172751% {
+      content: "I love all things technology and am constantl";
+    }
+    /* string 5, char 46 */
+    57.9694172751%, 58.1061772971% {
+      content: "I love all things technology and am constantly";
+    }
+    /* string 5, char 47 */
+    58.1071772971%, 58.2439373192% {
+      content: "I love all things technology and am constantly ";
+    }
+    /* string 5, char 48 */
+    58.2449373192%, 58.3816973412% {
+      content: "I love all things technology and am constantly t";
+    }
+    /* string 5, char 49 */
+    58.3826973412%, 58.5194573633% {
+      content: "I love all things technology and am constantly th";
+    }
+    /* string 5, char 50 */
+    58.5204573633%, 58.6572173853% {
+      content: "I love all things technology and am constantly thr";
+    }
+    /* string 5, char 51 */
+    58.6582173853%, 58.7949774074% {
+      content: "I love all things technology and am constantly thri";
+    }
+    /* string 5, char 52 */
+    58.7959774074%, 58.9327374294% {
+      content: "I love all things technology and am constantly thriv";
+    }
+    /* string 5, char 53 */
+    58.9337374294%, 59.0704974514% {
+      content: "I love all things technology and am constantly thrivi";
+    }
+    /* string 5, char 54 */
+    59.0714974514%, 59.2082574735% {
+      content: "I love all things technology and am constantly thrivin";
+    }
+    /* string 5, char 55 */
+    59.2092574735%, 59.3460174955% {
+      content: "I love all things technology and am constantly thriving";
+    }
+    /* string 5, char 56 */
+    59.3470174955%, 59.4837775176% {
+      content: "I love all things technology and am constantly thriving ";
+    }
+    /* string 5, char 57 */
+    59.4847775176%, 59.6215375396% {
+      content: "I love all things technology and am constantly thriving t";
+    }
+    /* string 5, char 58 */
+    59.6225375396%, 59.7592975616% {
+      content: "I love all things technology and am constantly thriving to";
+    }
+    /* string 5, char 59 */
+    59.7602975616%, 59.8970575837% {
+      content: "I love all things technology and am constantly thriving to ";
+    }
+    /* string 5, char 60 */
+    59.8980575837%, 60.0348176057% {
+      content: "I love all things technology and am constantly thriving to l";
+    }
+    /* string 5, char 61 */
+    60.0358176057%, 60.1725776278% {
+      content: "I love all things technology and am constantly thriving to le";
+    }
+    /* string 5, char 62 */
+    60.1735776278%, 60.3103376498% {
+      content: "I love all things technology and am constantly thriving to lea";
+    }
+    /* string 5, char 63 */
+    60.3113376498%, 60.4480976719% {
+      content: "I love all things technology and am constantly thriving to lear";
+    }
+    /* string 5, char 64 */
+    60.4490976719%, 60.5858576939% {
+      content: "I love all things technology and am constantly thriving to learn";
+    }
+    /* string 5, char 65 */
+    60.5868576939%, 60.7236177159% {
+      content: "I love all things technology and am constantly thriving to learn ";
+    }
+    /* string 5, char 66 */
+    60.7246177159%, 60.861377738% {
+      content: "I love all things technology and am constantly thriving to learn n";
+    }
+    /* string 5, char 67 */
+    60.862377738%, 60.99913776% {
+      content: "I love all things technology and am constantly thriving to learn ne";
+    }
+    /* string 5, char 68 */
+    61.00013776%, 61.1368977821% {
+      content: "I love all things technology and am constantly thriving to learn new";
+    }
+    /* string 5, char 69 */
+    61.1378977821%, 61.2746578041% {
+      content: "I love all things technology and am constantly thriving to learn new ";
+    }
+    /* string 5, char 70 */
+    61.2756578041%, 61.4124178261% {
+      content: "I love all things technology and am constantly thriving to learn new t";
+    }
+    /* string 5, char 71 */
+    61.4134178261%, 61.5501778482% {
+      content: "I love all things technology and am constantly thriving to learn new th";
+    }
+    /* string 5, char 72 */
+    61.5511778482%, 61.6879378702% {
+      content: "I love all things technology and am constantly thriving to learn new thi";
+    }
+    /* string 5, char 73 */
+    61.6889378702%, 61.8256978923% {
+      content: "I love all things technology and am constantly thriving to learn new thin";
+    }
+    /* string 5, char 74 */
+    61.8266978923%, 61.9634579143% {
+      content: "I love all things technology and am constantly thriving to learn new thing";
+    }
+    /* string 5, char 75 */
+    61.9644579143%, 62.1012179364% {
+      content: "I love all things technology and am constantly thriving to learn new things";
+    }
+    /* string 5, char 76 */
+    62.1022179364%, 66.4131066263% {
+      content: "I love all things technology and am constantly thriving to learn new things.";
+    }
+    /* string 5, char 77 */
+    66.4141066263%, 66.4544346329% {
+      content: "I love all things technology and am constantly thriving to learn new things";
+    }
+    /* string 5, char 78 */
+    66.4554346329%, 66.4957626395% {
+      content: "I love all things technology and am constantly thriving to learn new thing";
+    }
+    /* string 5, char 79 */
+    66.4967626395%, 66.5370906461% {
+      content: "I love all things technology and am constantly thriving to learn new thin";
+    }
+    /* string 5, char 80 */
+    66.5380906461%, 66.5784186527% {
+      content: "I love all things technology and am constantly thriving to learn new thi";
+    }
+    /* string 5, char 81 */
+    66.5794186527%, 66.6197466593% {
+      content: "I love all things technology and am constantly thriving to learn new th";
+    }
+    /* string 5, char 82 */
+    66.6207466593%, 66.6610746659% {
+      content: "I love all things technology and am constantly thriving to learn new t";
+    }
+    /* string 5, char 83 */
+    66.6620746659%, 66.7024026725% {
+      content: "I love all things technology and am constantly thriving to learn new ";
+    }
+    /* string 5, char 84 */
+    66.7034026725%, 66.7437306792% {
+      content: "I love all things technology and am constantly thriving to learn new";
+    }
+    /* string 5, char 85 */
+    66.7447306792%, 66.7850586858% {
+      content: "I love all things technology and am constantly thriving to learn ne";
+    }
+    /* string 5, char 86 */
+    66.7860586858%, 66.8263866924% {
+      content: "I love all things technology and am constantly thriving to learn n";
+    }
+    /* string 5, char 87 */
+    66.8273866924%, 66.867714699% {
+      content: "I love all things technology and am constantly thriving to learn ";
+    }
+    /* string 5, char 88 */
+    66.868714699%, 66.9090427056% {
+      content: "I love all things technology and am constantly thriving to learn";
+    }
+    /* string 5, char 89 */
+    66.9100427056%, 66.9503707122% {
+      content: "I love all things technology and am constantly thriving to lear";
+    }
+    /* string 5, char 90 */
+    66.9513707122%, 66.9916987188% {
+      content: "I love all things technology and am constantly thriving to lea";
+    }
+    /* string 5, char 91 */
+    66.9926987188%, 67.0330267254% {
+      content: "I love all things technology and am constantly thriving to le";
+    }
+    /* string 5, char 92 */
+    67.0340267254%, 67.0743547321% {
+      content: "I love all things technology and am constantly thriving to l";
+    }
+    /* string 5, char 93 */
+    67.0753547321%, 67.1156827387% {
+      content: "I love all things technology and am constantly thriving to ";
+    }
+    /* string 5, char 94 */
+    67.1166827387%, 67.1570107453% {
+      content: "I love all things technology and am constantly thriving to";
+    }
+    /* string 5, char 95 */
+    67.1580107453%, 67.1983387519% {
+      content: "I love all things technology and am constantly thriving t";
+    }
+    /* string 5, char 96 */
+    67.1993387519%, 67.2396667585% {
+      content: "I love all things technology and am constantly thriving ";
+    }
+    /* string 5, char 97 */
+    67.2406667585%, 67.2809947651% {
+      content: "I love all things technology and am constantly thriving";
+    }
+    /* string 5, char 98 */
+    67.2819947651%, 67.3223227717% {
+      content: "I love all things technology and am constantly thrivin";
+    }
+    /* string 5, char 99 */
+    67.3233227717%, 67.3636507783% {
+      content: "I love all things technology and am constantly thrivi";
+    }
+    /* string 5, char 100 */
+    67.3646507783%, 67.404978785% {
+      content: "I love all things technology and am constantly thriv";
+    }
+    /* string 5, char 101 */
+    67.405978785%, 67.4463067916% {
+      content: "I love all things technology and am constantly thri";
+    }
+    /* string 5, char 102 */
+    67.4473067916%, 67.4876347982% {
+      content: "I love all things technology and am constantly thr";
+    }
+    /* string 5, char 103 */
+    67.4886347982%, 67.5289628048% {
+      content: "I love all things technology and am constantly th";
+    }
+    /* string 5, char 104 */
+    67.5299628048%, 67.5702908114% {
+      content: "I love all things technology and am constantly t";
+    }
+    /* string 5, char 105 */
+    67.5712908114%, 67.611618818% {
+      content: "I love all things technology and am constantly ";
+    }
+    /* string 5, char 106 */
+    67.612618818%, 67.6529468246% {
+      content: "I love all things technology and am constantly";
+    }
+    /* string 5, char 107 */
+    67.6539468246%, 67.6942748312% {
+      content: "I love all things technology and am constantl";
+    }
+    /* string 5, char 108 */
+    67.6952748312%, 67.7356028379% {
+      content: "I love all things technology and am constant";
+    }
+    /* string 5, char 109 */
+    67.7366028379%, 67.7769308445% {
+      content: "I love all things technology and am constan";
+    }
+    /* string 5, char 110 */
+    67.7779308445%, 67.8182588511% {
+      content: "I love all things technology and am consta";
+    }
+    /* string 5, char 111 */
+    67.8192588511%, 67.8595868577% {
+      content: "I love all things technology and am const";
+    }
+    /* string 5, char 112 */
+    67.8605868577%, 67.9009148643% {
+      content: "I love all things technology and am cons";
+    }
+    /* string 5, char 113 */
+    67.9019148643%, 67.9422428709% {
+      content: "I love all things technology and am con";
+    }
+    /* string 5, char 114 */
+    67.9432428709%, 67.9835708775% {
+      content: "I love all things technology and am co";
+    }
+    /* string 5, char 115 */
+    67.9845708775%, 68.0248988841% {
+      content: "I love all things technology and am c";
+    }
+    /* string 5, char 116 */
+    68.0258988841%, 68.0662268908% {
+      content: "I love all things technology and am ";
+    }
+    /* string 5, char 117 */
+    68.0672268908%, 68.1075548974% {
+      content: "I love all things technology and am";
+    }
+    /* string 5, char 118 */
+    68.1085548974%, 68.148882904% {
+      content: "I love all things technology and a";
+    }
+    /* string 5, char 119 */
+    68.149882904%, 68.1902109106% {
+      content: "I love all things technology and ";
+    }
+    /* string 5, char 120 */
+    68.1912109106%, 68.2315389172% {
+      content: "I love all things technology and";
+    }
+    /* string 5, char 121 */
+    68.2325389172%, 68.2728669238% {
+      content: "I love all things technology an";
+    }
+    /* string 5, char 122 */
+    68.2738669238%, 68.3141949304% {
+      content: "I love all things technology a";
+    }
+    /* string 5, char 123 */
+    68.3151949304%, 68.355522937% {
+      content: "I love all things technology ";
+    }
+    /* string 5, char 124 */
+    68.356522937%, 68.3968509437% {
+      content: "I love all things technology";
+    }
+    /* string 5, char 125 */
+    68.3978509437%, 68.4381789503% {
+      content: "I love all things technolog";
+    }
+    /* string 5, char 126 */
+    68.4391789503%, 68.4795069569% {
+      content: "I love all things technolo";
+    }
+    /* string 5, char 127 */
+    68.4805069569%, 68.5208349635% {
+      content: "I love all things technol";
+    }
+    /* string 5, char 128 */
+    68.5218349635%, 68.5621629701% {
+      content: "I love all things techno";
+    }
+    /* string 5, char 129 */
+    68.5631629701%, 68.6034909767% {
+      content: "I love all things techn";
+    }
+    /* string 5, char 130 */
+    68.6044909767%, 68.6448189833% {
+      content: "I love all things tech";
+    }
+    /* string 5, char 131 */
+    68.6458189833%, 68.6861469899% {
+      content: "I love all things tec";
+    }
+    /* string 5, char 132 */
+    68.6871469899%, 68.7274749966% {
+      content: "I love all things te";
+    }
+    /* string 5, char 133 */
+    68.7284749966%, 68.7688030032% {
+      content: "I love all things t";
+    }
+    /* string 5, char 134 */
+    68.7698030032%, 68.8101310098% {
+      content: "I love all things ";
+    }
+    /* string 5, char 135 */
+    68.8111310098%, 68.8514590164% {
+      content: "I love all things";
+    }
+    /* string 5, char 136 */
+    68.8524590164%, 68.892787023% {
+      content: "I love all thing";
+    }
+    /* string 5, char 137 */
+    68.893787023%, 68.9341150296% {
+      content: "I love all thin";
+    }
+    /* string 5, char 138 */
+    68.9351150296%, 68.9754430362% {
+      content: "I love all thi";
+    }
+    /* string 5, char 139 */
+    68.9764430362%, 69.0167710428% {
+      content: "I love all th";
+    }
+    /* string 5, char 140 */
+    69.0177710428%, 69.0580990495% {
+      content: "I love all t";
+    }
+    /* string 5, char 141 */
+    69.0590990495%, 69.0994270561% {
+      content: "I love all ";
+    }
+    /* string 5, char 142 */
+    69.1004270561%, 69.1407550627% {
+      content: "I love all";
+    }
+    /* string 5, char 143 */
+    69.1417550627%, 69.1820830693% {
+      content: "I love al";
+    }
+    /* string 5, char 144 */
+    69.1830830693%, 69.2234110759% {
+      content: "I love a";
+    }
+    /* string 5, char 145 */
+    69.2244110759%, 69.2647390825% {
+      content: "I love ";
+    }
+    /* string 5, char 146 */
+    69.2657390825%, 69.3060670891% {
+      content: "I love";
+    }
+    /* string 5, char 147 */
+    69.3070670891%, 69.3473950957% {
+      content: "I lov";
+    }
+    /* string 5, char 148 */
+    69.3483950957%, 69.3887231024% {
+      content: "I lo";
+    }
+    /* string 5, char 149 */
+    69.3897231024%, 69.430051109% {
+      content: "I l";
+    }
+    /* string 5, char 150 */
+    69.431051109%, 69.4713791156% {
+      content: "I ";
+    }
+    /* string 5, char 151 */
+    69.4723791156%, 69.5127071222% {
+      content: "I";
+    }
+    /* string 5, char 152 */
+    69.5137071222%, 70.8903073426% {
+      content: "​";
+    }
+    /* string 6, char 1 */
+    70.8913073426%, 71.0280673647% {
+      content: "T";
+    }
+    /* string 6, char 2 */
+    71.0290673647%, 71.1658273867% {
+      content: "Th";
+    }
+    /* string 6, char 3 */
+    71.1668273867%, 71.3035874087% {
+      content: "Tha";
+    }
+    /* string 6, char 4 */
+    71.3045874087%, 71.4413474308% {
+      content: "Than";
+    }
+    /* string 6, char 5 */
+    71.4423474308%, 71.5791074528% {
+      content: "Thank";
+    }
+    /* string 6, char 6 */
+    71.5801074528%, 71.7168674749% {
+      content: "Thank ";
+    }
+    /* string 6, char 7 */
+    71.7178674749%, 71.8546274969% {
+      content: "Thank y";
+    }
+    /* string 6, char 8 */
+    71.8556274969%, 71.9923875189% {
+      content: "Thank yo";
+    }
+    /* string 6, char 9 */
+    71.9933875189%, 72.130147541% {
+      content: "Thank you";
+    }
+    /* string 6, char 10 */
+    72.131147541%, 72.267907563% {
+      content: "Thank you ";
+    }
+    /* string 6, char 11 */
+    72.268907563%, 72.4056675851% {
+      content: "Thank you f";
+    }
+    /* string 6, char 12 */
+    72.4066675851%, 72.5434276071% {
+      content: "Thank you fo";
+    }
+    /* string 6, char 13 */
+    72.5444276071%, 72.6811876292% {
+      content: "Thank you for";
+    }
+    /* string 6, char 14 */
+    72.6821876292%, 72.8189476512% {
+      content: "Thank you for ";
+    }
+    /* string 6, char 15 */
+    72.8199476512%, 72.9567076732% {
+      content: "Thank you for t";
+    }
+    /* string 6, char 16 */
+    72.9577076732%, 73.0944676953% {
+      content: "Thank you for ta";
+    }
+    /* string 6, char 17 */
+    73.0954676953%, 73.2322277173% {
+      content: "Thank you for tak";
+    }
+    /* string 6, char 18 */
+    73.2332277173%, 73.3699877394% {
+      content: "Thank you for taki";
+    }
+    /* string 6, char 19 */
+    73.3709877394%, 73.5077477614% {
+      content: "Thank you for takin";
+    }
+    /* string 6, char 20 */
+    73.5087477614%, 73.6455077834% {
+      content: "Thank you for taking";
+    }
+    /* string 6, char 21 */
+    73.6465077834%, 73.7832678055% {
+      content: "Thank you for taking ";
+    }
+    /* string 6, char 22 */
+    73.7842678055%, 73.9210278275% {
+      content: "Thank you for taking t";
+    }
+    /* string 6, char 23 */
+    73.9220278275%, 74.0587878496% {
+      content: "Thank you for taking th";
+    }
+    /* string 6, char 24 */
+    74.0597878496%, 74.1965478716% {
+      content: "Thank you for taking the";
+    }
+    /* string 6, char 25 */
+    74.1975478716%, 74.3343078936% {
+      content: "Thank you for taking the ";
+    }
+    /* string 6, char 26 */
+    74.3353078936%, 74.4720679157% {
+      content: "Thank you for taking the t";
+    }
+    /* string 6, char 27 */
+    74.4730679157%, 74.6098279377% {
+      content: "Thank you for taking the ti";
+    }
+    /* string 6, char 28 */
+    74.6108279377%, 74.7475879598% {
+      content: "Thank you for taking the tim";
+    }
+    /* string 6, char 29 */
+    74.7485879598%, 74.8853479818% {
+      content: "Thank you for taking the time";
+    }
+    /* string 6, char 30 */
+    74.8863479818%, 75.0231080039% {
+      content: "Thank you for taking the time ";
+    }
+    /* string 6, char 31 */
+    75.0241080039%, 75.1608680259% {
+      content: "Thank you for taking the time t";
+    }
+    /* string 6, char 32 */
+    75.1618680259%, 75.2986280479% {
+      content: "Thank you for taking the time to";
+    }
+    /* string 6, char 33 */
+    75.2996280479%, 75.43638807% {
+      content: "Thank you for taking the time to ";
+    }
+    /* string 6, char 34 */
+    75.43738807%, 75.574148092% {
+      content: "Thank you for taking the time to s";
+    }
+    /* string 6, char 35 */
+    75.575148092%, 75.7119081141% {
+      content: "Thank you for taking the time to st";
+    }
+    /* string 6, char 36 */
+    75.7129081141%, 75.8496681361% {
+      content: "Thank you for taking the time to sto";
+    }
+    /* string 6, char 37 */
+    75.8506681361%, 75.9874281581% {
+      content: "Thank you for taking the time to stop";
+    }
+    /* string 6, char 38 */
+    75.9884281581%, 76.1251881802% {
+      content: "Thank you for taking the time to stop ";
+    }
+    /* string 6, char 39 */
+    76.1261881802%, 76.2629482022% {
+      content: "Thank you for taking the time to stop b";
+    }
+    /* string 6, char 40 */
+    76.2639482022%, 76.4007082243% {
+      content: "Thank you for taking the time to stop by";
+    }
+    /* string 6, char 41 */
+    76.4017082243%, 80.7125969142% {
+      content: "Thank you for taking the time to stop by!";
+    }
+    /* string 6, char 42 */
+    80.7135969142%, 80.7539249208% {
+      content: "Thank you for taking the time to stop by";
+    }
+    /* string 6, char 43 */
+    80.7549249208%, 80.7952529274% {
+      content: "Thank you for taking the time to stop b";
+    }
+    /* string 6, char 44 */
+    80.7962529274%, 80.836580934% {
+      content: "Thank you for taking the time to stop ";
+    }
+    /* string 6, char 45 */
+    80.837580934%, 80.8779089406% {
+      content: "Thank you for taking the time to stop";
+    }
+    /* string 6, char 46 */
+    80.8789089406%, 80.9192369472% {
+      content: "Thank you for taking the time to sto";
+    }
+    /* string 6, char 47 */
+    80.9202369472%, 80.9605649539% {
+      content: "Thank you for taking the time to st";
+    }
+    /* string 6, char 48 */
+    80.9615649539%, 81.0018929605% {
+      content: "Thank you for taking the time to s";
+    }
+    /* string 6, char 49 */
+    81.0028929605%, 81.0432209671% {
+      content: "Thank you for taking the time to ";
+    }
+    /* string 6, char 50 */
+    81.0442209671%, 81.0845489737% {
+      content: "Thank you for taking the time to";
+    }
+    /* string 6, char 51 */
+    81.0855489737%, 81.1258769803% {
+      content: "Thank you for taking the time t";
+    }
+    /* string 6, char 52 */
+    81.1268769803%, 81.1672049869% {
+      content: "Thank you for taking the time ";
+    }
+    /* string 6, char 53 */
+    81.1682049869%, 81.2085329935% {
+      content: "Thank you for taking the time";
+    }
+    /* string 6, char 54 */
+    81.2095329935%, 81.2498610001% {
+      content: "Thank you for taking the tim";
+    }
+    /* string 6, char 55 */
+    81.2508610001%, 81.2911890068% {
+      content: "Thank you for taking the ti";
+    }
+    /* string 6, char 56 */
+    81.2921890068%, 81.3325170134% {
+      content: "Thank you for taking the t";
+    }
+    /* string 6, char 57 */
+    81.3335170134%, 81.37384502% {
+      content: "Thank you for taking the ";
+    }
+    /* string 6, char 58 */
+    81.37484502%, 81.4151730266% {
+      content: "Thank you for taking the";
+    }
+    /* string 6, char 59 */
+    81.4161730266%, 81.4565010332% {
+      content: "Thank you for taking th";
+    }
+    /* string 6, char 60 */
+    81.4575010332%, 81.4978290398% {
+      content: "Thank you for taking t";
+    }
+    /* string 6, char 61 */
+    81.4988290398%, 81.5391570464% {
+      content: "Thank you for taking ";
+    }
+    /* string 6, char 62 */
+    81.5401570464%, 81.580485053% {
+      content: "Thank you for taking";
+    }
+    /* string 6, char 63 */
+    81.581485053%, 81.6218130597% {
+      content: "Thank you for takin";
+    }
+    /* string 6, char 64 */
+    81.6228130597%, 81.6631410663% {
+      content: "Thank you for taki";
+    }
+    /* string 6, char 65 */
+    81.6641410663%, 81.7044690729% {
+      content: "Thank you for tak";
+    }
+    /* string 6, char 66 */
+    81.7054690729%, 81.7457970795% {
+      content: "Thank you for ta";
+    }
+    /* string 6, char 67 */
+    81.7467970795%, 81.7871250861% {
+      content: "Thank you for t";
+    }
+    /* string 6, char 68 */
+    81.7881250861%, 81.8284530927% {
+      content: "Thank you for ";
+    }
+    /* string 6, char 69 */
+    81.8294530927%, 81.8697810993% {
+      content: "Thank you for";
+    }
+    /* string 6, char 70 */
+    81.8707810993%, 81.9111091059% {
+      content: "Thank you fo";
+    }
+    /* string 6, char 71 */
+    81.9121091059%, 81.9524371125% {
+      content: "Thank you f";
+    }
+    /* string 6, char 72 */
+    81.9534371125%, 81.9937651192% {
+      content: "Thank you ";
+    }
+    /* string 6, char 73 */
+    81.9947651192%, 82.0350931258% {
+      content: "Thank you";
+    }
+    /* string 6, char 74 */
+    82.0360931258%, 82.0764211324% {
+      content: "Thank yo";
+    }
+    /* string 6, char 75 */
+    82.0774211324%, 82.117749139% {
+      content: "Thank y";
+    }
+    /* string 6, char 76 */
+    82.118749139%, 82.1590771456% {
+      content: "Thank ";
+    }
+    /* string 6, char 77 */
+    82.1600771456%, 82.2004051522% {
+      content: "Thank";
+    }
+    /* string 6, char 78 */
+    82.2014051522%, 82.2417331588% {
+      content: "Than";
+    }
+    /* string 6, char 79 */
+    82.2427331588%, 82.2830611654% {
+      content: "Tha";
+    }
+    /* string 6, char 80 */
+    82.2840611654%, 82.3243891721% {
+      content: "Th";
+    }
+    /* string 6, char 81 */
+    82.3253891721%, 82.3657171787% {
+      content: "T";
+    }
+    /* string 6, char 82 */
+    82.3667171787%, 83.7433173991% {
+      content: "​";
+    }
+    /* string 7, char 1 */
+    83.7443173991%, 83.8810774211% {
+      content: "T";
+    }
+    /* string 7, char 2 */
+    83.8820774211%, 84.0188374432% {
+      content: "Ta";
+    }
+    /* string 7, char 3 */
+    84.0198374432%, 84.1565974652% {
+      content: "Tak";
+    }
+    /* string 7, char 4 */
+    84.1575974652%, 84.2943574873% {
+      content: "Take";
+    }
+    /* string 7, char 5 */
+    84.2953574873%, 84.4321175093% {
+      content: "Take ";
+    }
+    /* string 7, char 6 */
+    84.4331175093%, 84.5698775313% {
+      content: "Take a";
+    }
+    /* string 7, char 7 */
+    84.5708775313%, 84.7076375534% {
+      content: "Take a ";
+    }
+    /* string 7, char 8 */
+    84.7086375534%, 84.8453975754% {
+      content: "Take a l";
+    }
+    /* string 7, char 9 */
+    84.8463975754%, 84.9831575975% {
+      content: "Take a lo";
+    }
+    /* string 7, char 10 */
+    84.9841575975%, 85.1209176195% {
+      content: "Take a loo";
+    }
+    /* string 7, char 11 */
+    85.1219176195%, 85.2586776415% {
+      content: "Take a look";
+    }
+    /* string 7, char 12 */
+    85.2596776415%, 85.3964376636% {
+      content: "Take a look ";
+    }
+    /* string 7, char 13 */
+    85.3974376636%, 85.5341976856% {
+      content: "Take a look a";
+    }
+    /* string 7, char 14 */
+    85.5351976856%, 85.6719577077% {
+      content: "Take a look ar";
+    }
+    /* string 7, char 15 */
+    85.6729577077%, 85.8097177297% {
+      content: "Take a look aro";
+    }
+    /* string 7, char 16 */
+    85.8107177297%, 85.9474777518% {
+      content: "Take a look arou";
+    }
+    /* string 7, char 17 */
+    85.9484777518%, 86.0852377738% {
+      content: "Take a look aroun";
+    }
+    /* string 7, char 18 */
+    86.0862377738%, 86.2229977958% {
+      content: "Take a look around";
+    }
+    /* string 7, char 19 */
+    86.2239977958%, 86.3607578179% {
+      content: "Take a look around ";
+    }
+    /* string 7, char 20 */
+    86.3617578179%, 86.4985178399% {
+      content: "Take a look around a";
+    }
+    /* string 7, char 21 */
+    86.4995178399%, 86.636277862% {
+      content: "Take a look around an";
+    }
+    /* string 7, char 22 */
+    86.637277862%, 86.774037884% {
+      content: "Take a look around and";
+    }
+    /* string 7, char 23 */
+    86.775037884%, 86.911797906% {
+      content: "Take a look around and ";
+    }
+    /* string 7, char 24 */
+    86.912797906%, 87.0495579281% {
+      content: "Take a look around and c";
+    }
+    /* string 7, char 25 */
+    87.0505579281%, 87.1873179501% {
+      content: "Take a look around and co";
+    }
+    /* string 7, char 26 */
+    87.1883179501%, 87.3250779722% {
+      content: "Take a look around and con";
+    }
+    /* string 7, char 27 */
+    87.3260779722%, 87.4628379942% {
+      content: "Take a look around and cont";
+    }
+    /* string 7, char 28 */
+    87.4638379942%, 87.6005980163% {
+      content: "Take a look around and conta";
+    }
+    /* string 7, char 29 */
+    87.6015980163%, 87.7383580383% {
+      content: "Take a look around and contac";
+    }
+    /* string 7, char 30 */
+    87.7393580383%, 87.8761180603% {
+      content: "Take a look around and contact";
+    }
+    /* string 7, char 31 */
+    87.8771180603%, 88.0138780824% {
+      content: "Take a look around and contact ";
+    }
+    /* string 7, char 32 */
+    88.0148780824%, 88.1516381044% {
+      content: "Take a look around and contact m";
+    }
+    /* string 7, char 33 */
+    88.1526381044%, 88.2893981265% {
+      content: "Take a look around and contact me";
+    }
+    /* string 7, char 34 */
+    88.2903981265%, 88.4271581485% {
+      content: "Take a look around and contact me ";
+    }
+    /* string 7, char 35 */
+    88.4281581485%, 88.5649181705% {
+      content: "Take a look around and contact me i";
+    }
+    /* string 7, char 36 */
+    88.5659181705%, 88.7026781926% {
+      content: "Take a look around and contact me if";
+    }
+    /* string 7, char 37 */
+    88.7036781926%, 88.8404382146% {
+      content: "Take a look around and contact me if ";
+    }
+    /* string 7, char 38 */
+    88.8414382146%, 88.9781982367% {
+      content: "Take a look around and contact me if y";
+    }
+    /* string 7, char 39 */
+    88.9791982367%, 89.1159582587% {
+      content: "Take a look around and contact me if yo";
+    }
+    /* string 7, char 40 */
+    89.1169582587%, 89.2537182808% {
+      content: "Take a look around and contact me if you";
+    }
+    /* string 7, char 41 */
+    89.2547182808%, 89.3914783028% {
+      content: "Take a look around and contact me if you ";
+    }
+    /* string 7, char 42 */
+    89.3924783028%, 89.5292383248% {
+      content: "Take a look around and contact me if you h";
+    }
+    /* string 7, char 43 */
+    89.5302383248%, 89.6669983469% {
+      content: "Take a look around and contact me if you ha";
+    }
+    /* string 7, char 44 */
+    89.6679983469%, 89.8047583689% {
+      content: "Take a look around and contact me if you hav";
+    }
+    /* string 7, char 45 */
+    89.8057583689%, 89.942518391% {
+      content: "Take a look around and contact me if you have";
+    }
+    /* string 7, char 46 */
+    89.943518391%, 90.080278413% {
+      content: "Take a look around and contact me if you have ";
+    }
+    /* string 7, char 47 */
+    90.081278413%, 90.218038435% {
+      content: "Take a look around and contact me if you have a";
+    }
+    /* string 7, char 48 */
+    90.219038435%, 90.3557984571% {
+      content: "Take a look around and contact me if you have an";
+    }
+    /* string 7, char 49 */
+    90.3567984571%, 90.4935584791% {
+      content: "Take a look around and contact me if you have any";
+    }
+    /* string 7, char 50 */
+    90.4945584791%, 90.6313185012% {
+      content: "Take a look around and contact me if you have any ";
+    }
+    /* string 7, char 51 */
+    90.6323185012%, 90.7690785232% {
+      content: "Take a look around and contact me if you have any q";
+    }
+    /* string 7, char 52 */
+    90.7700785232%, 90.9068385453% {
+      content: "Take a look around and contact me if you have any qu";
+    }
+    /* string 7, char 53 */
+    90.9078385453%, 91.0445985673% {
+      content: "Take a look around and contact me if you have any que";
+    }
+    /* string 7, char 54 */
+    91.0455985673%, 91.1823585893% {
+      content: "Take a look around and contact me if you have any ques";
+    }
+    /* string 7, char 55 */
+    91.1833585893%, 91.3201186114% {
+      content: "Take a look around and contact me if you have any quest";
+    }
+    /* string 7, char 56 */
+    91.3211186114%, 91.4578786334% {
+      content: "Take a look around and contact me if you have any questi";
+    }
+    /* string 7, char 57 */
+    91.4588786334%, 91.5956386555% {
+      content: "Take a look around and contact me if you have any questio";
+    }
+    /* string 7, char 58 */
+    91.5966386555%, 91.7333986775% {
+      content: "Take a look around and contact me if you have any question";
+    }
+    /* string 7, char 59 */
+    91.7343986775%, 91.8711586995% {
+      content: "Take a look around and contact me if you have any questions";
+    }
+    /* string 7, char 60 */
+    91.8721586995%, 96.1830473894% {
+      content: "Take a look around and contact me if you have any questions!";
+    }
+    /* string 7, char 61 */
+    96.1840473894%, 96.2243753961% {
+      content: "Take a look around and contact me if you have any questions";
+    }
+    /* string 7, char 62 */
+    96.2253753961%, 96.2657034027% {
+      content: "Take a look around and contact me if you have any question";
+    }
+    /* string 7, char 63 */
+    96.2667034027%, 96.3070314093% {
+      content: "Take a look around and contact me if you have any questio";
+    }
+    /* string 7, char 64 */
+    96.3080314093%, 96.3483594159% {
+      content: "Take a look around and contact me if you have any questi";
+    }
+    /* string 7, char 65 */
+    96.3493594159%, 96.3896874225% {
+      content: "Take a look around and contact me if you have any quest";
+    }
+    /* string 7, char 66 */
+    96.3906874225%, 96.4310154291% {
+      content: "Take a look around and contact me if you have any ques";
+    }
+    /* string 7, char 67 */
+    96.4320154291%, 96.4723434357% {
+      content: "Take a look around and contact me if you have any que";
+    }
+    /* string 7, char 68 */
+    96.4733434357%, 96.5136714423% {
+      content: "Take a look around and contact me if you have any qu";
+    }
+    /* string 7, char 69 */
+    96.5146714423%, 96.554999449% {
+      content: "Take a look around and contact me if you have any q";
+    }
+    /* string 7, char 70 */
+    96.555999449%, 96.5963274556% {
+      content: "Take a look around and contact me if you have any ";
+    }
+    /* string 7, char 71 */
+    96.5973274556%, 96.6376554622% {
+      content: "Take a look around and contact me if you have any";
+    }
+    /* string 7, char 72 */
+    96.6386554622%, 96.6789834688% {
+      content: "Take a look around and contact me if you have an";
+    }
+    /* string 7, char 73 */
+    96.6799834688%, 96.7203114754% {
+      content: "Take a look around and contact me if you have a";
+    }
+    /* string 7, char 74 */
+    96.7213114754%, 96.761639482% {
+      content: "Take a look around and contact me if you have ";
+    }
+    /* string 7, char 75 */
+    96.762639482%, 96.8029674886% {
+      content: "Take a look around and contact me if you have";
+    }
+    /* string 7, char 76 */
+    96.8039674886%, 96.8442954952% {
+      content: "Take a look around and contact me if you hav";
+    }
+    /* string 7, char 77 */
+    96.8452954952%, 96.8856235019% {
+      content: "Take a look around and contact me if you ha";
+    }
+    /* string 7, char 78 */
+    96.8866235019%, 96.9269515085% {
+      content: "Take a look around and contact me if you h";
+    }
+    /* string 7, char 79 */
+    96.9279515085%, 96.9682795151% {
+      content: "Take a look around and contact me if you ";
+    }
+    /* string 7, char 80 */
+    96.9692795151%, 97.0096075217% {
+      content: "Take a look around and contact me if you";
+    }
+    /* string 7, char 81 */
+    97.0106075217%, 97.0509355283% {
+      content: "Take a look around and contact me if yo";
+    }
+    /* string 7, char 82 */
+    97.0519355283%, 97.0922635349% {
+      content: "Take a look around and contact me if y";
+    }
+    /* string 7, char 83 */
+    97.0932635349%, 97.1335915415% {
+      content: "Take a look around and contact me if ";
+    }
+    /* string 7, char 84 */
+    97.1345915415%, 97.1749195481% {
+      content: "Take a look around and contact me if";
+    }
+    /* string 7, char 85 */
+    97.1759195481%, 97.2162475548% {
+      content: "Take a look around and contact me i";
+    }
+    /* string 7, char 86 */
+    97.2172475548%, 97.2575755614% {
+      content: "Take a look around and contact me ";
+    }
+    /* string 7, char 87 */
+    97.2585755614%, 97.298903568% {
+      content: "Take a look around and contact me";
+    }
+    /* string 7, char 88 */
+    97.299903568%, 97.3402315746% {
+      content: "Take a look around and contact m";
+    }
+    /* string 7, char 89 */
+    97.3412315746%, 97.3815595812% {
+      content: "Take a look around and contact ";
+    }
+    /* string 7, char 90 */
+    97.3825595812%, 97.4228875878% {
+      content: "Take a look around and contact";
+    }
+    /* string 7, char 91 */
+    97.4238875878%, 97.4642155944% {
+      content: "Take a look around and contac";
+    }
+    /* string 7, char 92 */
+    97.4652155944%, 97.505543601% {
+      content: "Take a look around and conta";
+    }
+    /* string 7, char 93 */
+    97.506543601%, 97.5468716077% {
+      content: "Take a look around and cont";
+    }
+    /* string 7, char 94 */
+    97.5478716077%, 97.5881996143% {
+      content: "Take a look around and con";
+    }
+    /* string 7, char 95 */
+    97.5891996143%, 97.6295276209% {
+      content: "Take a look around and co";
+    }
+    /* string 7, char 96 */
+    97.6305276209%, 97.6708556275% {
+      content: "Take a look around and c";
+    }
+    /* string 7, char 97 */
+    97.6718556275%, 97.7121836341% {
+      content: "Take a look around and ";
+    }
+    /* string 7, char 98 */
+    97.7131836341%, 97.7535116407% {
+      content: "Take a look around and";
+    }
+    /* string 7, char 99 */
+    97.7545116407%, 97.7948396473% {
+      content: "Take a look around an";
+    }
+    /* string 7, char 100 */
+    97.7958396473%, 97.8361676539% {
+      content: "Take a look around a";
+    }
+    /* string 7, char 101 */
+    97.8371676539%, 97.8774956606% {
+      content: "Take a look around ";
+    }
+    /* string 7, char 102 */
+    97.8784956606%, 97.9188236672% {
+      content: "Take a look around";
+    }
+    /* string 7, char 103 */
+    97.9198236672%, 97.9601516738% {
+      content: "Take a look aroun";
+    }
+    /* string 7, char 104 */
+    97.9611516738%, 98.0014796804% {
+      content: "Take a look arou";
+    }
+    /* string 7, char 105 */
+    98.0024796804%, 98.042807687% {
+      content: "Take a look aro";
+    }
+    /* string 7, char 106 */
+    98.043807687%, 98.0841356936% {
+      content: "Take a look ar";
+    }
+    /* string 7, char 107 */
+    98.0851356936%, 98.1254637002% {
+      content: "Take a look a";
+    }
+    /* string 7, char 108 */
+    98.1264637002%, 98.1667917068% {
+      content: "Take a look ";
+    }
+    /* string 7, char 109 */
+    98.1677917068%, 98.2081197135% {
+      content: "Take a look";
+    }
+    /* string 7, char 110 */
+    98.2091197135%, 98.2494477201% {
+      content: "Take a loo";
+    }
+    /* string 7, char 111 */
+    98.2504477201%, 98.2907757267% {
+      content: "Take a lo";
+    }
+    /* string 7, char 112 */
+    98.2917757267%, 98.3321037333% {
+      content: "Take a l";
+    }
+    /* string 7, char 113 */
+    98.3331037333%, 98.3734317399% {
+      content: "Take a ";
+    }
+    /* string 7, char 114 */
+    98.3744317399%, 98.4147597465% {
+      content: "Take a";
+    }
+    /* string 7, char 115 */
+    98.4157597465%, 98.4560877531% {
+      content: "Take ";
+    }
+    /* string 7, char 116 */
+    98.4570877531%, 98.4974157597% {
+      content: "Take";
+    }
+    /* string 7, char 117 */
+    98.4984157597%, 98.5387437664% {
+      content: "Tak";
+    }
+    /* string 7, char 118 */
+    98.5397437664%, 98.580071773% {
+      content: "Ta";
+    }
+    /* string 7, char 119 */
+    98.581071773%, 98.6213997796% {
+      content: "T";
+    }
+    /* string 7, char 120 */
+    98.6223997796%, 100% {
+      content: "​";
+    }
+}
