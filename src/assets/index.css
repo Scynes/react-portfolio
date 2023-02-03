@@ -6,7 +6,7 @@
     --background-color-primary-semi: rgb(22, 18, 24, 0.85);
     --background-color-primary-light: rgba(47, 32, 54, 0.7);
     --background-color-secondary: rgb(137, 7, 243);
-    --background-color-secondary-semi: rgb(137, 7, 243, 0.85);
+    --background-color-secondary-semi: rgba(7, 82, 243, 0.85);
     --background-color-secondary-light: rgb(137, 7, 243, 0.3);
     /* fonts */
     --font-family-primary: 'Montserrat Alternates', sans-serif;
@@ -22,6 +22,10 @@
 
 a {
     text-decoration: none;
+}
+
+html, body {
+    height: 100%;
 }
 
 body {
@@ -120,7 +124,7 @@ a:is(.active) {
 }
 
 #root {
-    min-height: 100vh;
+    height: 100%;
     display: grid;
     grid-template-rows: auto 1fr auto;
 }
@@ -155,7 +159,10 @@ a:is(.active) {
 }
 
 #landing-page-wrapper {
-    height: 100%;
+    margin: auto;
+    width: 100%;
+    max-width: 25rem;
+    grid-template-rows: 50% 50%;
 }
 
 #page-container {
@@ -173,12 +180,15 @@ a:is(.active) {
 
 .about-container {
     padding: 1rem;
-    border-radius: 1rem;
-    background-color: var(--background-color-primary-light);
 }
 
 .typer {
-    max-width: 20rem;
+    min-height: 3rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: var(--background-color-secondary-semi);
 }
 
 @media screen and (max-width: 480px) {
@@ -216,6 +226,10 @@ a:is(.active) {
 
     #hamburger-container {
         display: flex;
+    }
+
+    #portfolio-picture {
+        width: 10rem;
     }
 }
 
