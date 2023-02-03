@@ -187,7 +187,7 @@ a:is(.active) {
     max-width: 25rem;
     padding: 1rem;
     border-radius: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: center;
     background-color: var(--background-color-secondary-semi);
 }
@@ -239,6 +239,15 @@ a:is(.active) {
 
     .about-container {
         justify-content: center;
+    }
+
+    .typer {
+        font-size: 1.5rem;
+    }
+
+    /* Because no one is going to look at codepen on a phone */
+    .codepen {
+        display: none;
     }
 }
 
