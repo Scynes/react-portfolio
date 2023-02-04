@@ -8,6 +8,7 @@
     --background-color-secondary: rgb(137, 7, 243);
     --background-color-secondary-semi: rgba(7, 82, 243, 0.85);
     --background-color-secondary-light: rgb(137, 7, 243, 0.3);
+    --background-color-secondary-semi-light: rgb(137, 7, 243, 0.7);
     /* fonts */
     --font-family-primary: 'Montserrat Alternates', sans-serif;
     --font-color-primary: rgb(255, 255, 255);
@@ -40,6 +41,26 @@ h1 {
     font-weight: normal;
 }
 
+textarea {
+    resize: none;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: var(--background-color-secondary-semi-light);
+    border: 1.5px solid white;
+    outline: none;
+    color: var(--font-color-primary);
+    font-size: 1rem;
+}
+
+fieldset {
+    border: none;
+}
+
+legend {
+    font-size: 2.5rem;
+    color: var(--font-color-primary);
+}
+
 /* ------------- *
  *    UTILITY    *
  * ------------- */
@@ -49,6 +70,10 @@ h1 {
 
 .pointer {
     cursor: pointer;
+}
+
+.height-100 {
+    height: 100%;
 }
 
 /* ---------- *
@@ -169,6 +194,39 @@ a:is(.active) {
     margin: 0.5rem;
 }
 
+#contact-form {
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    width: 30rem;
+}
+
+#contact-form > input {
+    min-height: 3rem;
+    border-radius: 0.5rem;
+    background-color: var(--background-color-secondary-semi-light);
+    border: 1.5px solid white;
+    outline: none;
+    color: var(--font-color-primary);
+    font-size: 1rem;
+    width: 100%;
+}
+
+#contact-form > input:not([type='submit']) {
+    padding-left: 1rem;
+}
+
+#contact-form > input[type='submit'] {
+    -webkit-appearance: none;
+}
+
+#contact-form > input:focus {
+    background-color: var(--background-color-secondary);
+}
+
+#contact-form > textarea {
+    grid-column: span 2;
+}
+
 .fa-bars {
     font-size: 2rem;
     color: var(--font-color-primary);
@@ -235,6 +293,10 @@ a:is(.active) {
 
     #landing-page-wrapper {
         display: block;
+    }
+
+    #contact-form {
+        width: 100%;
     }
 
     .about-container {

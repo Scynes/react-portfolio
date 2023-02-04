@@ -5,6 +5,7 @@ import NavigationBar from "./components/navigation";
 import Footer from "./components/footer";
 
 import Landing from "./pages/Landing"
+import Contact from "./pages/Contact";
 
 const App = () => {
     return (
@@ -16,7 +17,7 @@ const App = () => {
                     <Route path="/skills" element={ <Landing /> }/>
                     <Route path="/projects" element={ <Landing /> }/>
                     <Route path="/resume" element={ <Landing /> }/>
-                    <Route path="/contact" element={ <Landing /> }/>
+                    <Route path="/contact" element={ <Contact /> }/>
                 </Routes>
             </div>
             <Footer />
