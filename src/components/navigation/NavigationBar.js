@@ -24,6 +24,9 @@ const NavigationBar = () => {
                 <NavLink className={'nav-item fc-primary'} to={''}>
                     <h3>Home</h3>
                 </NavLink>
+                <NavLink className={'nav-item fc-primary'} to={'projects'}>
+                    <h3>Projects</h3>
+                </NavLink>
                 <NavLink className={'nav-item fc-primary'} to={'skills'}>
                     <h3>Skills</h3>
                 </NavLink>
