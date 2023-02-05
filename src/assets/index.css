@@ -253,9 +253,14 @@ a:is(.active) {
 }
 
 .project {
-    min-width: 30rem;
+    max-width: 30rem;
     min-height: 15rem;
-    background-color: rgba(255, 255, 255, 0.575);
+    gap: 1rem;
+    transition: all 0.5s ease;
+}
+
+.project:hover {
+    transform: scale(1.1);
 }
 
 .fa-bars {
@@ -278,6 +283,18 @@ a:is(.active) {
     border-radius: 1rem;
     font-size: 2rem;
     text-align: center;
+    background-color: var(--background-color-secondary-semi);
+}
+
+.project-video {
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.586);
+}
+
+.project-span {
+    padding: 0.5rem;
+    border-radius: 0.75rem;
     background-color: var(--background-color-secondary-semi);
 }
 
