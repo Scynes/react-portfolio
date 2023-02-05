@@ -255,7 +255,7 @@ a:is(.active) {
 .project {
     max-width: 30rem;
     min-height: 15rem;
-    gap: 1rem;
+    gap: 0.5rem;
     transition: all 0.5s ease;
 }
 
@@ -293,9 +293,15 @@ a:is(.active) {
 }
 
 .project-span {
-    padding: 0.5rem;
+    display: inline-block;
+    font-size: 1.5rem;
     border-radius: 0.75rem;
+    padding: 0.5rem;
     background-color: var(--background-color-secondary-semi);
+}
+
+.project-tech {
+    max-height: 3rem;
 }
 
 @media screen and (max-width: 480px) {
@@ -361,7 +367,11 @@ a:is(.active) {
     }
 
     .project {
-        min-width: 18rem;
+        max-width: 18rem;
+    }
+
+    .project-tech {
+        max-height: 1.25rem;
     }
 }
 

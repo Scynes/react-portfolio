@@ -8,12 +8,17 @@ const Projects = () => {
             <h1 className={'relative fc-primary'}>Projects</h1>
             <div id="projects-flex" className="flex relative justify-center">
                 <div className="project flex column fc-primary">
-                    <h2>
+                    <div>
                         <span className={'project-span'}>Ghost Upload</span>
-                    </h2>
-                    <a href="https://ghost.herokuapp.com">
-                        <video className={'project-video'} src={GhostUpload} loop autoPlay muted></video>
-                    </a>
+                    </div>
+                    <div>
+                        <img className={'project-tech'} src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,socket.io" alt="" />
+                    </div>
+                    <div>
+                        <a href="https://ghost.herokuapp.com">
+                            <video className={'project-video'} src={GhostUpload} loop autoPlay muted></video>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
