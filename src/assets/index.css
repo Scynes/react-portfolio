@@ -76,6 +76,10 @@ legend {
     height: 100%;
 }
 
+.width-100 {
+    width: 100%;
+}
+
 /* ---------- *
  *    FLEX    *
  * ---------- */
@@ -225,6 +229,33 @@ a:is(.active) {
 
 #contact-form > textarea {
     grid-column: span 2;
+}
+
+#projects-container {
+    position: relative;
+}
+
+#projects-flex {
+    position: relative;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.projects-background {
+    position: absolute;
+    background-image: url('./images/projects-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1rem;
+    opacity: .8;
+}
+
+.project {
+    flex: 1;
+    min-width: 15rem;
+    min-height: 20rem;
+    background-color: rgba(255, 255, 255, 0.575);
 }
 
 .fa-bars {
