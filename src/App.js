@@ -7,6 +7,7 @@ import Footer from "./components/footer";
 import Landing from "./pages/Landing"
 import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
+import Skills from "./pages/Skills";
 
 const App = () => {
     return (
@@ -15,7 +16,7 @@ const App = () => {
             <div id="page-container">
                 <Routes>
                     <Route path="/" element={ <Landing /> }/>
-                    <Route path="/skills" element={ <Landing /> }/>
+                    <Route path="/skills" element={ <Skills /> }/>
                     <Route path="/projects" element={ <Projects /> }/>
                     <Route path="/resume" element={ <Landing /> }/>
                     <Route path="/contact" element={ <Contact /> }/>
